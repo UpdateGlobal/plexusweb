@@ -157,7 +157,12 @@
                                     <div class="clear"></div>
 
 
-                                    <div class="pego-columns pego-columns12 fl home-element2" align="center" style="height: 140px; vertical-align: middle;">
+                                    <!-- <div class="pego-columns pego-columns12 fl home-element2" align="center" style="/*height: 140px; vertical-align: middle;*/">
+                                        <h1 class="page-heading">porqué invertir en plexus<span>oficinas en san miguel</span></h1>
+                                    </div> -->
+
+
+                                    <div class="pego-columns12 fl home-element2" align="center" style="/*height: 140px; vertical-align: middle;*/">
                                         <h1 class="page-heading">porqué invertir en plexus<span>oficinas en san miguel</span></h1>
                                     </div>
 
@@ -171,6 +176,18 @@
                                     <div class="pego-columns pego-columns3 fl colorsheme3  home-element3a">
                                         <a class="col-link" href="index.php#"><img width="315" height="290" src="upload/free-consulting.jpg" class="attachment-full size-full" alt="free-consulting" /></a>
                                     </div>
+
+
+                                    <style type="text/css">
+                                     @media only screen and (max-width: 770px) {
+                                    .page-icon-wrapper {
+                                        display: table-cell;
+                                        text-align: center;
+                                        vertical-align: middle;
+                                        padding: 16px;
+                                    }
+                                    }
+                                    </style>
                                     <div class="pego-columns pego-columns3 fl   home-element3b" style="background-color: black !important;">
                                         <a class="col-link" href="https://www.youtube.com/watch?v=7OVBKVTeySw" target="new">
                                             <div class="page-vertical-alignment">
@@ -337,6 +354,17 @@
             </div>
 
         </div>
+<style type="text/css">
+ @media only screen and (max-width: 770px) {
+.footer p {
+    font-weight: 600;
+    color: #fff;
+    padding: 0px;
+}
+}
+</style>
+
+   
         <!-- end container -->
         <div class="footer">
             <img src="img/plexus.png">
