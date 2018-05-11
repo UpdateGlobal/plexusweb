@@ -18,8 +18,8 @@
 	h1.service-title, h1.history-page-heading { font-size: 18px; } 
 	h1.service-title span, h1.history-page-heading span { font-size: 20px; }
 	p.service-excerpt, p.history-page-summary { font-size: 12px; }
-	.home-wrapper h1.page-heading, .home-wrapper h1.page-heading span { font-size: 20px; margin-bottom: 10px; }
-	.home-wrapper h1.page-heading span { font-size: 24px; }
+	.home-wrapper h1.page-heading, .home-wrapper h1.page-heading span {font-size: 32px;margin-bottom: 10px;}
+	.home-wrapper h1.page-heading span {font-size: 42px;}
 	p.page-summary { font-size: 12px;  margin-bottom: 10px; }
 	a.page-read-more-button { padding: 10px 15px; font-size: 13px; }
 	.page-icon-wrapper .page-title { padding: 0 60px; }
