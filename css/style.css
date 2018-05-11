@@ -3158,3 +3158,44 @@ div.owl-controls.clickable {
     border-radius: 100%;
     z-index: 123;
 }
+@media only screen and (max-width: 770px) {
+    .page-icon-wrapper {
+        display: table-cell;
+        text-align: center;
+        vertical-align: middle;
+        padding: 16px;
+        }
+}
+
+
+
+@media only screen and (max-width: 770px) {
+    .bner2 {
+        display: none;
+    	}
+}
+
+@media only screen and (min-width: 770px) {
+    .movil_bner2 {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 770px) {
+.footer p {
+	    font-weight: 600;
+	    color: #fff;
+	    padding: 0px;
+			}
+}
+
+
+
+
+
+
+
+
+
+
+

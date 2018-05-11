@@ -53,7 +53,7 @@
         
         <div id="header-wrapper" class="navbar" align="center">
             <div class="logo">
-                <a href="index.php" title=""><img id="logoImageRetina" src="img/plexus.png" /></a><span class="baner_what"><i class="fab fa-whatsapp fa-2x">&nbsp;</i><b style="font-size: 28px;">956088899</b><br>mcampuzano@plexus.pe</span>
+                <a href="index.php" title=""><img id="logoImageRetina" src="img/plexus.png" /></a><span class="baner_what"></a><a href="http://api.whatsapp.com/send?phone=0051956088899" target="new"><i class="fab fa-whatsapp fa-2x">&nbsp;</i><b style="font-size: 28px;">956088899</b></a><br>mcampuzano@plexus.pe</span>
             </div> <a class="mobile-menu-show">
                 <!-- <i class="mobile-menu-icon pe-7s-menu"></i> -->
                 <img src="img/plexus.png">
@@ -145,22 +145,8 @@
                                     </div>
                                 </div>
                                 <div class="home-wrapper">
-                                   <!--  <div class="pego-columns pego-columns3 fr colorsheme2 home-element1 ">
-                                        <a class="col-link fancybox-media" href="https://www.youtube.com/watch?v=6fL4gOgu6Ts">
-                                            <div class="page-vertical-alignment">
-                                                <div class="page-icon-wrapper">
-                                                    <div class="page-icon pe-7s-video"></div>
-                                                    <h1 class="page-title">Company presentation</h1></div>
-                                            </div>
-                                        </a>
-                                    </div> -->
+
                                     <div class="clear"></div>
-
-
-                                    <!-- <div class="pego-columns pego-columns12 fl home-element2" align="center" style="/*height: 140px; vertical-align: middle;*/">
-                                        <h1 class="page-heading">porqué invertir en plexus<span>oficinas en san miguel</span></h1>
-                                    </div> -->
-
 
                                     <div class="pego-columns12 fl home-element2" align="center" style="/*height: 140px; vertical-align: middle;*/">
                                         <h1 class="page-heading">porqué invertir en plexus<span>oficinas en san miguel</span></h1>
@@ -177,17 +163,6 @@
                                         <a class="col-link" href="index.php#"><img width="315" height="290" src="upload/free-consulting.jpg" class="attachment-full size-full" alt="free-consulting" /></a>
                                     </div>
 
-
-                                    <style type="text/css">
-                                     @media only screen and (max-width: 770px) {
-                                    .page-icon-wrapper {
-                                        display: table-cell;
-                                        text-align: center;
-                                        vertical-align: middle;
-                                        padding: 16px;
-                                    }
-                                    }
-                                    </style>
                                     <div class="pego-columns pego-columns3 fl   home-element3b" style="background-color: black !important;">
                                         <a class="col-link" href="https://www.youtube.com/watch?v=7OVBKVTeySw" target="new">
                                             <div class="page-vertical-alignment">
@@ -288,17 +263,7 @@
 
 
                 <style type="text/css">
-                @media only screen and (max-width: 770px) {
-                    .bner2 {
-                        display: none;
-                    }
-                }
-
-                @media only screen and (min-width: 770px) {
-                    .movil_bner2 {
-                        display: none;
-                    }
-                }
+           
                 </style>
 
                 <div class="pego-columns pego-columns12 fl home-element2 movil_bner2" align="center" style="padding: 35px 40px 30px; height: 120px; background-color: black;">
@@ -336,33 +301,20 @@
                     <p>Calle Martín de Murúa 150 - Edificio Empresarial PLEXUS San Miguel, LIMA - PERÚ</p>
                 </div>
 
-
-            
-
-
                 <div class="clear"></div>
             </div>
             </div>
         </div>    
 <!--foldercontainer-->
-<div id="maps"></div>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.38335528687!2d-77.09345382634368!3d-12.075590421389505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c96ff8023dc7%3A0xe2b0a2ebfb211589!2sPlexus+Centro+Empresarial!5e0!3m2!1ses-419!2spe!4v1525122313720" height="600" frameborder="0" style="border:0; width: 100%;" allowfullscreen></iframe>
+            <div id="maps"></div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.38335528687!2d-77.09345382634368!3d-12.075590421389505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c96ff8023dc7%3A0xe2b0a2ebfb211589!2sPlexus+Centro+Empresarial!5e0!3m2!1ses-419!2spe!4v1525122313720" height="600" frameborder="0" style="border:0; width: 100%;" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
         </div>
-<style type="text/css">
- @media only screen and (max-width: 770px) {
-.footer p {
-    font-weight: 600;
-    color: #fff;
-    padding: 0px;
-}
-}
-</style>
+
 
    
         <!-- end container -->
@@ -378,16 +330,17 @@
         </div>
         <div style="background-color: black;color: white; padding: 20px;" align="center">
             <p style="margin: 0px;color: white;"> Desarrollado por Update Global Marketing</p>
-        </div>
-</div><!--wrapper-->
+
     <!-- end container-wrapper -->
 
 
-
- <a href="#home" class="scroll-to-top" style="display: block;">
- <i class="fa fa-chevron-up" aria-hidden="true" style="margin-top: 7px;"></i> 
+    <!--bottonUp-->
+    <a href="#home" class="scroll-to-top" style="display: block;">
+        <i class="fa fa-chevron-up" aria-hidden="true" style="margin-top: 7px;"></i> 
         <span class="sr-only">Ir arriba</span>
-</a>   
+    </a>   
+    <!--bottonUp-->
+
 
  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
     <script type='text/javascript' src='js/jquery/jquery.js'></script>
