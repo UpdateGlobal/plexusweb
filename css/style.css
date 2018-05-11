@@ -357,7 +357,9 @@ body {
 }
 
 .colorsheme3 {
-	background: url(../img/home-plexus-pic-1.png);
+	background: url(../img/home-plexus-pic-1.jpg);
+	background-size:  contain;
+	/* width: 100%; */
 }
 .page-vertical-alignment {
 	display: table;

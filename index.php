@@ -106,16 +106,7 @@
                     <div class="wpb_column vc_column_container vc_col-sm-12">
                         <div class="vc_column-inner ">
                             <div class="wpb_wrapper">
-
-                              <!--   <div class="">
-                                    <img src="img/edificio@2x.png">
-                                </div>
- -->
-
-
-
-
-
+<br><br>
                                 <div class="wpb_layerslider_element wpb_content_element">
 
                                     <div id="layerslider_2_1456695929_1" class="ls-wp-container" style="width:1260px;height:580px;max-width:1260px;margin:0 auto;margin-bottom: 0px;">

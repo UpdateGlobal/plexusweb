@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1280px) and  (min-width: 960px) {
+@media only screen and (max-width: 2560px) and (min-width: 960px) {
 	.header-socials-wrapper, .container-wrapper { width: 960px; }
 	.home-wrapper .home-element4, .home-wrapper .home-element5, .home-wrapper .home-element6 { height: 782px; }
 	.pego-columns9 { width: 720px; }
