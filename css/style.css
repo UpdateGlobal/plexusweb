@@ -265,7 +265,10 @@ img {
 
 body {
 	/* background: url("../images/bg-image.jpg") no-repeat fixed; */
+
+
 }
+
 
 .container-wrapper {
 	width: 1260px;
@@ -332,6 +335,8 @@ body {
 
 .pego-columns img {
 	float: left;
+	height: 441px;
+	width: 100%;
 }
 
 .pego-columns6 {
@@ -391,7 +396,7 @@ body {
 }
 
 .home-wrapper .home-element2 {
-	padding: 45px 40px 30px;
+	padding: 30px 40px 30px;
 }
 
 .home-wrapper h1.page-heading, .home-wrapper h1.page-heading span {
@@ -1065,14 +1070,14 @@ h1.portfolio-title span {
 	color: #000;
 }
 p.portfolio-summary {
-	padding: 0 40px;
-	margin-bottom: 89px;
+    padding: 0 40px;
+    margin-bottom: 84px;
 }
 
 div.owl-controls.clickable {
-	position: absolute;
-	top: 240px;
-	left: 50%;
+    position: absolute;
+    top: 240px;
+    left: 50%;
 }
 
 .owl-next:before { 
@@ -1170,12 +1175,32 @@ h1.history-page-heading {
 	letter-spacing: -1px;
 	margin-bottom: 10px;
 }
+
+
+h1.page-title{
+	text-transform: uppercase;
+	color: #000;
+	font-size: 24px;
+	font-weight: 200;
+	line-height: 1;
+	letter-spacing: -1px;
+	margin-bottom: 10px;
+}
+
+h1.page-title span{
+	font-size: 24px;
+	display: block;
+	font-weight: 700;
+	color: #000;
+}
+
 h1.history-page-heading span {
 	font-size: 32px;
 	display: block;
 	font-weight: 700;
 	color: #000;
 }
+
 .company-history-element1 {
 	padding: 40px;
 }
@@ -1195,7 +1220,7 @@ h2.about-subtitle {
 h1.about-title {
 	text-transform: uppercase;
 	color: #000;
-	font-size: 42px;
+	font-size: 32px;
 	font-weight: 700;
 	line-height: 1;
 	letter-spacing: -1px;
@@ -1986,10 +2011,23 @@ span.says {
 }
 
 .owl_post_slider .owl-controls {
-    /*width: 100%;*/
-    /*top: 45%;
-    	position: absolute;*/
+   width: 100%;
+    top: 45%;
+    position: absolute;
 }
+
+
+.owl-pagination { 
+	position: absolute;
+	left: -8px; 
+	font-size: 14px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;	
+	color: #000;
+	line-height: 1.7;
+}
+
+
 .post-type .owl-prev {
     float: left;
     left: 0px;
@@ -3035,7 +3073,7 @@ ul#filters {
     border-bottom: 2px solid #000;
     background: transparent;
     margin-bottom: 10px;
-    font-size: 22px;
+    font-size: 18px;
     height: 80px;
     color: black;
 }
