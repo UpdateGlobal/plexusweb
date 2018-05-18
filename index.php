@@ -6,6 +6,19 @@
 
     <title>PLEXUS - EDIFICIO CORPORATIVO</title>
 
+    <meta name="description" content="Plexus es un edificio corporativo en el nuevo centro empresarial de lima con oficinas en venta en San Miguel amplios ambientes, vista panorámica." />
+    <meta name="keywords" content="comodidad, oficinas a1, polo comercial, centro empresarial" />
+    <meta name="DC.title" content="PLEXUS - EDIFICIO CORPORATIVO" />
+    <meta name="DC.description" lang="es" content="Plexus es un edificio corporativo en el nuevo centro empresarial de lima con oficinas en venta en San Miguel amplios ambientes, vista panorámica." />
+    <meta name="geo.region" content="PE-LIM" />
+    <meta name="robots" content="INDEX,FOLLOW" />
+    
+    <meta property="og:title" content="PLEXUS - EDIFICIO CORPORATIVO" />
+    <meta property="og:type" content="website.RealEstate" />
+    <meta property="og:description" content="Plexus es un edificio corporativo en el nuevo centro empresarial de lima con oficinas en venta en San Miguel amplios ambientes, vista panorámica." />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="img/edificio.jpg" />
+
     <!-- for mobile devices -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="format-detection" content="telephone=no" />
@@ -27,7 +40,9 @@
     <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&subset=latin,latin-ext' type='text/css' media='all' />
     <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700italic,700,800,800italic&ver=4.4.2' type='text/css' media='all' />
     <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700&ver=4.4.2' type='text/css' media='all' />
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" />
+
+    <link rel="stylesheet" href="css/custom.css" type='text/css' media='all' />
 </head>
 
 <body class="home page page-id-5 page-template-default wpb-js-composer js-comp-ver-4.9.2 vc_responsive">
@@ -145,7 +160,7 @@
                                         </div> 
                                         <!--ItemsInmubles-->   
 
-                                        <!--itemInmublesMmovil--> movil_bner2
+                                        <!--itemInmublesMmovil--> 
                                         <div class="movil_bner2">
                                             <div class="pego-columns-auto-height  pego-columns6 fl folio-view isotope-item">
                                                 <div class="folio-view-item">
@@ -225,9 +240,6 @@
                                         <!--rowImgCarousel-->
 
 
-
-
-
                                         <!--seccionBannerMovil-->
                                         <div class="pego-columns pego-columns12 fl home-element2 movil_bner2" align="center" style="padding: 35px 40px 30px; height: 120px; background-color: black;">
                                             <h1 class="page-heading-2" style="font-size: 18px;">NO ESPERES MÁS COMUNÍCATE <br><span style="font-size: 19px;font-weight: 700;">SOLICITA TU COTIZACIÓN AQUÍ</span></h1>
@@ -241,28 +253,70 @@
                                         </div>  
                                         <!--seecionBannerDesktop-->
 
-
                                         <!--Formulario-->
-                                        <div class="about-wrapper" >
-                                            <div class="pego-columns-auto-height pego-columns6 fl  about-element2"><img class="fl" src="img/window.png" alt=""></div>
-                                                <div class="pego-columns-auto-height pego-columns6 fl about-element1 " id="from">
-                                                    <h2 class="about-subtitle">BRÍNDANOS TUS DATOS Y</h2>
-                                                    <h1 class="about-title">TE CONTACTAMOS</h1>
-                                                    <div class="form-style-8" align="center" >
-                                                      <form>
-                                                        <input type="text" name="field1" placeholder="Nombre" />
-                                                        <input type="text" name="field2" placeholder="Celular" />
-                                                        <input type="email" name="field2" placeholder="Correo" />
-                                                        <textarea placeholder="Comentario" onkeyup="adjust_textarea(this)"></textarea>
+                                        <script>
+                                            function sendContact(){
+                                                var valid;
+                                                valid = validateContact();
+                                                if(valid) {
+                                                    jQuery.ajax({
+                                                        url: "contact_form.php",
+                                                        data:'nombres='+$("#nombres").val()+'&email='+$("#email").val()+'&telefono='+$("#telefono").val()+'&mensaje='+$("#mensaje").val(),
+                                                        type: "POST",
+                                                        success:function(data){
+                                                            $("#mail-status").html(data);
+                                                        },
+                                                        error:function (){}
+                                                    });
+                                                }
+                                            }
+
+                                            function validateContact() {
+                                                var valid = true;
+                                                if(!$("#nombres").val()) {
+                                                    $("#nombres").css('background-color','#f28282');
+                                                    valid = false;
+                                                }
+                                                if(!$("#email").val()) {
+                                                    $("#email").css('background-color','#f28282');
+                                                    valid = false;
+                                                }
+                                                if(!$("#email").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
+                                                    $("#email").css('background-color','#f28282');
+                                                    valid = false;
+                                                }
+                                                if(!$("#telefono").val()) {
+                                                    $("#telefono").css('background-color','#f28282');
+                                                    valid = false;
+                                                }
+                                                if(!$("#mensaje").val()) {
+                                                    $("#mensaje").css('background-color','#f28282');
+                                                    valid = false;
+                                                }
+                                                return valid;
+                                            }
+                                        </script>
+                                        <div class="about-wrapper">
+                                            <div class="pego-columns-auto-height pego-columns6 fl about-element2"><img class="fl" src="img/window.png" alt=""></div>
+                                            <div class="pego-columns-auto-height pego-columns6 fl about-element1" id="from">
+                                                <h2 class="about-subtitle">BRÍNDANOS TUS DATOS Y</h2>
+                                                <h1 class="about-title">TE CONTACTAMOS</h1>
+                                                <div class="form-style-8" align="center">
+                                                    <div>
+                                                        <input type="text" id="nombres" name="nombres" placeholder="Nombre" />
+                                                        <input type="text" id="telefono" name="telefono" placeholder="Celular" />
+                                                        <input type="email" id="email" name="email" placeholder="Correo" />
+                                                        <textarea id="mensaje" name="mensaje" placeholder="Comentario" onkeyup="adjust_textarea(this)"></textarea>
                                                         <br><br>
-                                                         <a class="page-read-more-button" href="about-company.php">Enviar</a>
-                                                      </form>
+                                                        <div style="clear: both;"></div>
+                                                        <div id="mail-status"></div>
+                                                        <button name="submit" onClick="sendContact();" class="btn_enviar">Enviar</button>
                                                     </div>
                                                 </div>
-                                                <div class="clear"></div>
+                                            </div>
+                                            <div class="clear"></div>
                                         </div>
                                         <!--Formulario-->
-
 
                                         <!--Direccion-->
                                         <div class="pego-columns pego-columns12 fl home-element2 " align="center" style="height: 140px;vertical-align: middle;">
