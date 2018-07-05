@@ -103,7 +103,7 @@
                                     <a class="col-link" href="index.php#"><img width="315" height="290" src="upload/free-consulting.jpg" class="attachment-full size-full" alt="free-consulting" style="height: 222px;" /></a>
                                 </div>
                                 <div class="pego-columns pego-columns3 fl   home-element3b" style="background-color: black !important;">
-                                    <a class="col-link fancybox-media" href="https://www.youtube.com/watch?v=Sh4f1z0bo-Y&feature=youtu.be" rel="media-gallery">
+                                    <a class="col-link fancybox-media" href="https://youtu.be/7OVBKVTeySw" rel="media-gallery">
                                         <div class="page-vertical-alignment">
                                             <div class="page-icon-wrapper">
                                                 <i class="far fa-play-circle fa-5x"></i>
