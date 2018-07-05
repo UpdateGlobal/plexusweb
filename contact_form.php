@@ -13,9 +13,9 @@ $mensaje .= "Telefono		:".$_POST["telefono"]."\n";
 $mensaje .= "Mensaje		:".$_POST["mensaje"]."\n";
 
 if(mail($toEmail, $subject, $mensaje, $mailHeaders)) {
-	print "<div class='alert-message' role='alert'>Email Enviado Exitosamente.</div>";
+	print "<div class='alert-message'>Email Enviado Exitosamente.</div>";
 } else {
-	print "<div class='alert-error' role='alert'>Problema al enviar el correo, intentelo m&aacute;s tarde.</div>";
+	print "<div class='alert-error'>Problema al enviar el correo, intentelo m&aacute;s tarde.</div>";
 }
 
 ?>

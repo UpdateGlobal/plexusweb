@@ -306,7 +306,7 @@
                                                         <input type="text" id="nombres" name="nombres" placeholder="Nombre" />
                                                         <input type="text" id="telefono" name="telefono" placeholder="Celular" />
                                                         <input type="email" id="email" name="email" placeholder="Correo" />
-                                                        <textarea id="mensaje" name="mensaje" placeholder="Comentario" onkeyup="adjust_textarea(this)"></textarea>
+                                                        <textarea id="mensaje" name="mensaje" placeholder="Comentario" ></textarea>
                                                         <br><br>
                                                         <div style="clear: both;"></div>
                                                         <div id="mail-status"></div>
@@ -360,7 +360,7 @@
         <!--bottonUp-->
 
 
-    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+    <script type='text/javascript' src='js/jquery.min.js'></script>
     <script type='text/javascript' src='js/jquery/jquery.js'></script>
     <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
     <script type='text/javascript' src='js/greensock.js'></script>
