@@ -43,6 +43,69 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" />
 
     <link rel="stylesheet" href="css/custom.css" type='text/css' media='all' />
+    <?php
+        if (isset($_REQUEST['proceso'])) {
+            $proceso    = $_POST['proceso'];
+        } else {
+            $proceso    = "";
+        }
+
+        if($proceso=="Registrar"){
+            $nombre         = $_POST['nombres'];
+            $email          = $_POST['email'];
+            $telefono       = $_POST['telefono'];
+            $comentario     = $_POST['mensaje'];
+            $fecha_ingreso  = $_POST['fecha_ingreso'];
+
+            $emailDestino = "updatechristian@gmail.com, raulupdate@gmail.com";
+            $encabezado = "Enviado desde Plexus";
+            $mensaje .= "Información del Contacto\n";
+            $mensaje .= "------------------------\n";
+            $mensaje .= "Nombres        :".$nombre."\n";
+            $mensaje .= "Email          :".$email."\n";
+            $mensaje .= "Telefono       :".$telefono."\n";
+            $mensaje .= "Fecha          :".$fecha_ingreso."\n";
+            $mensaje .= "Mensaje        :".$comentario."\n";
+
+            $mailcabecera = "Desde: ".$email." <". $nombres. "> \n";
+            $mailcabecera .= "Responder a: ".$email."\n\n";
+            mail($emailDestino,$encabezado, $mensaje, $mailcabecera);
+            header("Location:exitos.php");
+        }
+    ?>
+    <script>
+    function Validar(){
+        
+        if(document.contacto.nombres.value==""){
+            alert("Debe ingresar su nombres");
+            document.contacto.nombres.focus();
+            return; 
+        }
+        if(document.contacto.telefono.value==""){
+            alert("Debe ingresar su telefono");
+            document.contacto.telefono.focus();
+            return; 
+        }
+        if(document.contacto.email.value==""){
+            alert("Debes ingresar un email");
+            document.contacto.email.focus();
+            return;
+        }
+        if (document.contacto.email.value.indexOf('@') == -1){
+            alert ("La \"dirección de email\" no es correcta");
+            document.contacto.email.focus();
+            return;
+        }
+        if(document.contacto.mensaje.value==""){
+            alert("Debe ingresar su mensaje");
+            document.contacto.mensaje.focus();
+            return; 
+        }
+        document.contacto.proceso.value="Registrar";
+        document.contacto.action="index.php";
+        document.contacto.submit();
+    }
+</script>
 </head>
 
 <body class="home page page-id-5 page-template-default wpb-js-composer js-comp-ver-4.9.2 vc_responsive">
@@ -253,65 +316,25 @@
                                         </div>  
                                         <!--seecionBannerDesktop-->
 
-                                        <!--Formulario-->
-                                        <script>
-                                            function sendContact(){
-                                                var valid;
-                                                valid = validateContact();
-                                                if(valid) {
-                                                    jQuery.ajax({
-                                                        url: "contact_form.php",
-                                                        data:'nombres='+$("#nombres").val()+'&email='+$("#email").val()+'&telefono='+$("#telefono").val()+'&mensaje='+$("#mensaje").val(),
-                                                        type: "POST",
-                                                        success:function(data){
-                                                            $("#mail-status").html(data);
-                                                        },
-                                                        error:function (){}
-                                                    });
-                                                }
-                                            }
-
-                                            function validateContact() {
-                                                var valid = true;
-                                                if(!$("#nombres").val()) {
-                                                    $("#nombres").css('background-color','#f28282');
-                                                    valid = false;
-                                                }
-                                                if(!$("#email").val()) {
-                                                    $("#email").css('background-color','#f28282');
-                                                    valid = false;
-                                                }
-                                                if(!$("#email").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
-                                                    $("#email").css('background-color','#f28282');
-                                                    valid = false;
-                                                }
-                                                if(!$("#telefono").val()) {
-                                                    $("#telefono").css('background-color','#f28282');
-                                                    valid = false;
-                                                }
-                                                if(!$("#mensaje").val()) {
-                                                    $("#mensaje").css('background-color','#f28282');
-                                                    valid = false;
-                                                }
-                                                return valid;
-                                            }
-                                        </script>
                                         <div class="about-wrapper">
                                             <div class="pego-columns-auto-height pego-columns6 fl about-element2"><img class="fl" src="img/window.png" alt=""></div>
                                             <div class="pego-columns-auto-height pego-columns6 fl about-element1" id="from">
                                                 <h2 class="about-subtitle">BRÍNDANOS TUS DATOS Y</h2>
                                                 <h1 class="about-title">TE CONTACTAMOS</h1>
                                                 <div class="form-style-8" align="center">
-                                                    <div>
+                                                    <form name="contacto" id="contacto" method="post" action="">
                                                         <input type="text" id="nombres" name="nombres" placeholder="Nombre" />
                                                         <input type="text" id="telefono" name="telefono" placeholder="Celular" />
                                                         <input type="email" id="email" name="email" placeholder="Correo" />
                                                         <textarea id="mensaje" name="mensaje" placeholder="Comentario" ></textarea>
                                                         <br><br>
                                                         <div style="clear: both;"></div>
-                                                        <div id="mail-status"></div>
-                                                        <button name="submit" onClick="sendContact();" class="btn_enviar">Enviar</button>
-                                                    </div>
+                                                        <!-- <input type="button" name="submit" onClick="javascript:Validar();" class="btn_enviar" value="Enviar" /> -->
+                                                        <button type="button" onClick="javascript:Validar();" class="btn_enviar">Enviar</button>
+                                                        <input type="hidden" name="proceso" />
+                                                        <?php $fecha = date("Y-m-d"); ?>
+                                                        <input type="hidden" name="fecha_ingreso" value="<?php echo $fecha ?>">
+                                                    </form>
                                                 </div>
                                             </div>
                                             <div class="clear"></div>
@@ -343,23 +366,21 @@
         <div class="footer">
             <img src="img/plexus.png">
             <p>PLEXUS ES UN EDIFICIO CORPORATIVO EN EL NUEVO CENTRO EMPRESARIAL DE LIMA CON OFICINAS EN VENTA EN SAN MIGUEL AMPLIOS AMBIENTES, VISTA PANORÁMICA</p>
-                <div class="row img_foo">
-                    <a href="https://www.linkedin.com/company/update-global-marketing" target="_blank"><span class="social"> <i class="fab fa-linkedin-in"></i></span></a>
-                    <a href="https://www.facebook.com/updatemarketing/" target="_blank"><span class="social"> <i class="fab fa-facebook-f"></i></span></a>
-                </div>
+            <div class="row img_foo">
+                <a href="https://www.linkedin.com/company/update-global-marketing" target="_blank"><span class="social"> <i class="fab fa-linkedin-in"></i></span></a>
+                <a href="https://www.facebook.com/updatemarketing/" target="_blank"><span class="social"> <i class="fab fa-facebook-f"></i></span></a>
+            </div>
         </div>
         <div style="background-color: black;color: white; padding: 20px;" align="center">
-        <p style="margin: 0px;color: white;"> Desarrollado por Update Global Marketing</p>
+            <p style="margin: 0px;color: white;"> Desarrollado por Update Global Marketing</p>
         </div>
         <!--footer-->
         <!--bottonUp-->
         <a href="#home" class="scroll-to-top" style="display: block;">
             <i class="fa fa-chevron-up" aria-hidden="true" style="margin-top: 7px;"></i> 
             <span class="sr-only">Ir arriba</span>
-        </a>   
+        </a>
         <!--bottonUp-->
-
-
     <script type='text/javascript' src='js/jquery.min.js'></script>
     <script type='text/javascript' src='js/jquery/jquery.js'></script>
     <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
