@@ -131,23 +131,75 @@
             <div id="post-5" class="post-5 page type-page status-publish hentry">
                  <div class="vc_row wpb_row vc_row-fluid">
 
+<style type="text/css">
+    
+@media screen and (max-width: 992px) {
+  .moviless {
+    display: none;
+  }
+}
+@media screen and (min-width: 992px) {
+  .deskless {
+    display: none;
+  }
+}
+
+</style>
+
+
+
+
                     <!--slideshow-->
                     <div class="wpb_wrapper">
                         <br><br>
-                        <div class="wpb_layerslider_element wpb_content_element " style="background: url('img/edificio.jpg') no-repeat; background-size: cover;">
+                        <div class="wpb_layerslider_element wpb_content_element moviless" style="background: url('img/edificio.jpg') no-repeat; background-size: cover;">
                             <div id="layerslider_2_1456695929_1" class="ls-wp-container" style="width:1260px;height:580px;max-width:1260px;margin:0 auto;margin-bottom: 0px;">
                                 <div class="ls-slide" data-ls="slidedelay:8000;transition2d:75,79;">
-                                    <!-- <img src="img/edificio.jpg" class="ls-bg" alt="slider1" /> -->
                                     <img class="ls-l" style="top:0px;left:0px;white-space: nowrap;" data-ls="offsetxin:0;durationin:2000;easingin:linear;offsetxout:0;durationout:6000;easingout:linear;fadeout:false;scalexout:0;scaleyout:0;"  alt="">
-                                    <p class="ls-l" style="top:220px;left:87px;font-weight: 700; text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); letter-spacing: -2px;padding-left:20px;font-family:'Open Sans', sans-serif;;font-size:44px;line-height:52px;color:#ffffff;white-space: nowrap;" data-ls="durationin:1500;delayin:1300;rotatein:20;rotatexin:30;scalexin:1.5;scaleyin:1.5;transformoriginin:left 50% 0;durationout:750;rotateout:20;rotatexout:-30;scalexout:0;scaleyout:0;transformoriginout:left 50% 0;">CENTRO EMPRESARIAL<br>EN EL NUEVO POLO COMERCIAL DE LIMA</p>
+                                    <p class="ls-l" style="top:220px;left:87px;font-weight: 700; text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); letter-spacing: -2px;padding-left:20px;font-family:'Open Sans', sans-serif;;font-size:40px;line-height:52px;color:#ffffff;white-space: nowrap;" data-ls="durationin:1500;delayin:1300;rotatein:20;rotatexin:30;scalexin:1.5;scaleyin:1.5;transformoriginin:left 50% 0;durationout:750;rotateout:20;rotatexout:-30;scalexout:0;scaleyout:0;transformoriginout:left 50% 0;">CENTRO EMPRESARIAL<br>EN EL NUEVO POLO COMERCIAL DE LIMA</p>
                                     <p class="ls-l" style="top:340px;left:114px;font-weight: 400; text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); letter-spacing: -1px;font-family:'Open Sans', sans-serif;;font-size:25px;line-height:28px;color:#ffffff;white-space: nowrap;" data-ls="durationin:1500;delayin:2500;rotatein:20;rotatexin:30;scalexin:1.5;scaleyin:1.5;transformoriginin:left 50% 0;durationout:750;rotateout:20;rotatexout:-30;scalexout:0;scaleyout:0;transformoriginout:left 50% 0;">Visítanos en: Calle Martín de Murúa 150 - San Miguel.</p>
                                     <div class="ls-l" style="top:390px;left:114px;background: #000; padding: 20px 30px; font-weight: 700; text-transform: uppercase;; font-size: 13px; display: inline-block; color: #fff;white-space: nowrap;" data-ls="durationin:1500;delayin:3500;"><a href="#from" title="" target="_self" style="color: #fff;">Cotiza Aqui</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
+
+                       
+
                     </div>
                     <!--slideshow-->
+                    <style type="text/css">
+                        a.portfolio-read {
+                            background: #000;
+                            padding: 9px 30px;
+                            font-weight: 700;
+                            text-transform: uppercase;
+                            font-size: 13px;
+                            /* display: inline-block; */
+                            /* position: absolute; */
+                            /* bottom: 50px; */
+                            left: 50%;
+                            /* margin-left: -70px; */
+                            color: #fff;
+                        }
+                    </style>
+
+                    <!--slideMovil-->
+                    <div class="deskless" style="padding-top: 64px;">
+                        <div class="home-wrapper">
+
+                            <div class="pego-columns12 fl home-element2" align="center" style="background-color: #344f7c14; padding: 20px 0px;">
+                                <h1 class="page-heading">CENTRO EMPRESARIAL EN<span> EL NUEVO POLO COMERCIAL DE LIMA</span></h1>
+                                <a href="index.php#" class="portfolio-read">Cotiza Aqui</a>
+                            </div>
+              
+                            <img src="img/edificio.jpg" style="width: 100%; height: 200px;">
+                           
+
+                        </div>
+                    </div>
+                    <!--slideMovil-->
+
 
                     <!--home-wrapper-->  
                     <div class="home-wrapper">
