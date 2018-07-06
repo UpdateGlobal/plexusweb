@@ -57,7 +57,7 @@
             $comentario     = $_POST['mensaje'];
             $fecha_ingreso  = $_POST['fecha_ingreso'];
 
-            $emailDestino = "updatechristian@gmail.com, raulupdate@gmail.com";
+            $emailDestino = "mcampuzano@plexus.pe";
             $encabezado = "Enviado desde Plexus";
             $mensaje .= "Información del Contacto\n";
             $mensaje .= "------------------------\n";
