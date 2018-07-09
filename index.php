@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -37,9 +37,9 @@
     <link rel='stylesheet' href='css/media.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/js_composer_front_custom.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/font-awesome.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&subset=latin,latin-ext' type='text/css' media='all' />
-    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700italic,700,800,800italic&ver=4.4.2' type='text/css' media='all' />
-    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700&ver=4.4.2' type='text/css' media='all' />
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&subset=latin,latin-ext' type='text/css' media='all' />
+ <!--     <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700italic,700,800,800italic&ver=4.4.2' type='text/css' media='all' />
+   <link rel='stylesheet' href='http:s//fonts.googleapis.com/css?family=Playfair+Display:400,700&ver=4.4.2' type='text/css' media='all' /> -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" />
 
     <link rel="stylesheet" href="css/custom.css" type='text/css' media='all' />
@@ -114,7 +114,7 @@
             <!--menuDesktop-->
             <div class="logo">
                 <a href="index.php" title=""><img id="logoImageRetina" src="img/plexus.svg" /></a>
-                <span class="baner_what"></a><a href="http://api.whatsapp.com/send?phone=51956088899" target="new"><i class="fab fa-whatsapp fa-2x">&nbsp;</i><b style="font-size: 28px;">956088899</b></a><br>mcampuzano@plexus.pe</span>
+                <span class="baner_what"></a><a href="https://api.whatsapp.com/send?phone=51956088899" target="new"><i class="fab fa-whatsapp fa-2x">&nbsp;</i><b style="font-size: 28px;">956088899</b></a><br>mcampuzano@plexus.pe</span>
             </div>
             <!--menuDesktop-->
 
@@ -189,7 +189,7 @@
                         <div class="home-wrapper">
 
                             <div class="pego-columns12 fl home-element2" align="center" style="background-color: #344f7c14; padding: 20px 0px;">
-                                <h1 class="page-heading" >OFICINAS EMPRESARIALES EN<span> EL NUEVO POLO COMERCIAL DE LIMA SAN MIGUEL</span></h1>
+                                <h1 class="page-heading">OFICINAS EMPRESARIALES EN<span> EL NUEVO POLO COMERCIAL DE LIMA SAN MIGUEL</span></h1>
                                 <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                             </div>
               
@@ -205,7 +205,7 @@
                     <div class="home-wrapper">
                             <!--bannerprincipal-->
                             <div class="pego-columns12 fl home-element2" align="center" style="background-color: #344f7c14;">
-                                <h1 class="page-heading" style="margin-top: 30px;">Porqué invertir en plexus<span>oficinas en san miguel</span></h1>
+                                <h1 class="page-heading">Porqué invertir en plexus<span>oficinas en san miguel</span></h1>
                             </div>
                             <!--bannerprincipal-->
                             <!--seccionUno-->   
@@ -215,7 +215,7 @@
                                     <p class="page-summary">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                                 </div>
                                 <div class="pego-columns pego-columns3 fl colorsheme3  home-element3a">
-                                    <a class="col-link" href="index.php#"><img width="315" height="290" src="upload/free-consulting.jpg" class="attachment-full size-full" alt="free-consulting" style="height: 222px;" /></a>
+                                    <a class="col-link" href="index.php#"><img width="315" height="290" src="pic/pelxus-1.jpg" class="attachment-full size-full" alt="free-consulting" style="height: 222px;" /></a>
                                 </div>
                                 <div class="pego-columns pego-columns3 fl   home-element3b" style="background-color: black !important;">
                                     <a class="col-link fancybox-media" href="https://youtu.be/7OVBKVTeySw" rel="media-gallery">
@@ -237,7 +237,7 @@
                                         <div class="pego-columns-auto-height  pego-columns6 fl folio-view isotope-item bner2">
                                                 <div class="folio-view-item">
                                                     <a class="folio-view-thumb zoom">
-                                                        <img src="upload/folio121.jpg" alt="Interior design in colors. Amazing!" />
+                                                        <img src="pic/plexus-2.jpg" alt="Interior design in colors. Amazing!" />
                                                         <div class="arrow-up"></div>
                                                         <div class="folio-view-overlay-icon pe-7s-plus"></div>
                                                         <div class="folio-view-overlay-bg"></div>
@@ -270,7 +270,7 @@
                                                     </div>
 
                                                     <a class="folio-view-thumb zoom">
-                                                        <img src="upload/folio17.jpg" alt="Awesome interior design just before holidays" />
+                                                        <img src="pic/plexus-3.jpg" alt="Awesome interior design just before holidays" />
                                                         <div class="arrow-down"></div>
                                                         <div class="folio-view-overlay-icon pe-7s-plus"></div>
                                                         <div class="folio-view-overlay-bg"></div>
@@ -286,7 +286,7 @@
                                                 <div class="folio-view-item">
                                                     
                                                     <a class="folio-view-thumb zoom">
-                                                        <img src="upload/folio17.jpg" alt="Awesome interior design just before holidays" />
+                                                        <img src="pic/plexus-2.jpg" alt="Awesome interior design just before holidays" />
                                                         <div class="arrow-up"></div>
                                                         <div class="folio-view-overlay-icon pe-7s-plus"></div>
                                                         <div class="folio-view-overlay-bg"></div>
@@ -308,7 +308,7 @@
                                             <div class="pego-columns-auto-height  pego-columns6 fl folio-view isotope-item">
                                                     <div class="folio-view-item">
                                                         <a class="folio-view-thumb zoom">
-                                                            <img src="upload/folio121.jpg" alt="Interior design in colors. Amazing!" />
+                                                            <img src="pic/plexus-3.jpg" alt="Interior design in colors. Amazing!" />
                                                             <div class="arrow-up"></div>
                                                             <div class="folio-view-overlay-icon pe-7s-plus"></div>
                                                             <div class="folio-view-overlay-bg"></div>
@@ -377,7 +377,7 @@
                                         <!--seecionBannerDesktop-->
 
                                         <div class="about-wrapper">
-                                            <div class="pego-columns-auto-height pego-columns6 fl about-element2 bner2"><img class="fl" src="img/window.png" alt=""></div>
+                                            <div class="pego-columns-auto-height pego-columns6 fl about-element2 bner2"><img class="fl" src="pic/plexus-5.jpg" alt=""></div>
                                             <div class="pego-columns-auto-height pego-columns6 fl about-element1" id="from" >
                                                 <h2 class="about-subtitle">BRÍNDANOS TUS DATOS Y</h2>
                                                 <h1 class="about-title">TE CONTACTAMOS</h1>
@@ -424,7 +424,7 @@
         <!-- end container -->
         <!--footer-->
         <div class="footer">
-            <img src="img/plexus.svg" width="200">
+            <img src="img/plexus.svg" width="250">
             <p>PLEXUS ES UN EDIFICIO CORPORATIVO EN EL NUEVO CENTRO EMPRESARIAL DE LIMA CON OFICINAS EN VENTA EN SAN MIGUEL AMPLIOS AMBIENTES, VISTA PANORÁMICA</p>
             <div class="row img_foo">
                 <a href="https://www.linkedin.com/company/update-global-marketing" target="_blank"><span class="social"> <i class="fab fa-linkedin-in"></i></span></a>
@@ -434,30 +434,29 @@
         <div style="background-color: black;color: white; padding: 20px;" align="center">
             <p style="margin: 0px;color: white;"> Desarrollado por Update Global Marketing</p>
         </div>
-        <!--footer-->
-        <!--bottonUp-->
+  
+      <!--botonesfixed-->
         <a href="#home" class="scroll-to-top" style="display: block;">
             <i class="fa fa-chevron-up" aria-hidden="true" style="margin-top: 7px;"></i> 
             <span class="sr-only">Ir arriba</span>
         </a>
-        <!--bottonUp-->
-         <!--bottonUp-->
         <a href="#from" class="scroll_mail" style="display: block;">
             <i class="far fa-envelope" style="margin-top: 7px;"></i>
             <span class="sr-only">Ir arriba</span>
         </a>
-        <!--bottonUp-->
-
-        <!--whatas-->
-        <a href="http://api.whatsapp.com/send?phone=51956088899" class="scroll_top" style="display: block;">
+        <a href="//www.facebook.com/sharer.php?u=http%3A%2F%2Fplexus.grupo-update.com%2F%2F%3Fp%3D1263" class="scroll_social" style="display: block;">
+            <i class="fab fa-facebook-f" style="margin-top: 7px;"></i>
+            <span class="sr-only">Ir arriba</span>
+        </a>
+        <a href="https://api.whatsapp.com/send?phone=51956088899" class="scroll_top" style="display: block;">
             <i class="fab fa-whatsapp fa-2x" style="margin-top: 6px;font-size: 38px;margin-left: 9px;">&nbsp;</i>
             <span class="sr-only">Ir arriba</span>
         </a>
-        <!--whatas-->
+        <!--botonesfixed-->
 
 
 
-    <script type='text/javascript' src='js/jquery.min.js'></script>
+
     <script type='text/javascript' src='js/jquery/jquery.js'></script>
     <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
     <script type='text/javascript' src='js/greensock.js'></script>
@@ -472,40 +471,7 @@
     <script type='text/javascript' src='js/custom.js'></script>
     <script type='text/javascript' src='js/js_composer_front.min.js'></script>
     <script type='text/javascript' src='js/owl.carousel.js'></script>
-    <script type="text/javascript">
-        $('.owl-carousel').owlCarousel({
-                loop:true,
-                margin:10,
-                nav:true,
-                responsive:{
-                    0:{
-                        items:1
-                    },
-                    600:{
-                        items:3
-                    },
-                    1000:{
-                        items:5
-                    }
-                }
-            })
-    </script>
-    <script>
-    $(function(){
-         $('a[href*=#]').click(function() {
-         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
-             && location.hostname == this.hostname) {
-                 var $target = $(this.hash);
-                 $target = $target.length && $target || $('[name=' + this.hash.slice(1) +']');
-                 if ($target.length) {
-                     var targetOffset = $target.offset().top;
-                     $('html,body').animate({scrollTop: targetOffset}, 1000);
-                     return false;
-                }
-           }
-       });
-    });
-    </script>
+
     <script data-cfasync="false" type="text/javascript">
         var lsjQuery = jQuery;
     </script>
@@ -524,7 +490,7 @@
             }
         });
     </script>
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
     <script type="text/javascript">
         (function() {
             window.onload = function() {
