@@ -114,7 +114,7 @@
             <!--menuDesktop-->
             <div class="logo">
                 <a href="index.php" title=""><img id="logoImageRetina" src="img/plexus.png" /></a>
-                <span class="baner_what"></a><a href="http://api.whatsapp.com/send?phone=0051956088899" target="new"><i class="fab fa-whatsapp fa-2x">&nbsp;</i><b style="font-size: 28px;">956088899</b></a><br>mcampuzano@plexus.pe</span>
+                <span class="baner_what"></a><a href="http://api.whatsapp.com/send?phone=51956088899" target="new"><i class="fab fa-whatsapp fa-2x">&nbsp;</i><b style="font-size: 28px;">956088899</b></a><br>mcampuzano@plexus.pe</span>
             </div>
             <!--menuDesktop-->
 
@@ -189,8 +189,8 @@
                         <div class="home-wrapper">
 
                             <div class="pego-columns12 fl home-element2" align="center" style="background-color: #344f7c14; padding: 20px 0px;">
-                                <h1 class="page-heading">CENTRO EMPRESARIAL EN<span> EL NUEVO POLO COMERCIAL DE LIMA</span></h1>
-                                <a href="index.php#" class="portfolio-read">Cotiza Aqui</a>
+                                <h1 class="page-heading">OFICINAS EMPRESARIALES EN<span> EL NUEVO POLO COMERCIAL DE LIMA SAN MIGUEL</span></h1>
+                                <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                             </div>
               
                             <img src="img/edificio.jpg" style="width: 100%; height: 200px;">
@@ -250,7 +250,9 @@
                                                         <div class="clear"></div>
                                                         <h1 class="single-folio-view-title"><a href="work.php#" >COMODIDAD PARA TUS COLABORADORES</a></h1>
                                                         <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                                                        <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                                                 </div>
+                                                
                                             </div>
                                         </div>
 
@@ -264,7 +266,9 @@
                                                         <div class="clear"></div>
                                                         <h1 class="single-folio-view-title"><a href="work.php#" >Oﬁcinas A1 de acuerdo a las necesidades de tu empresa</a></h1>
                                                         <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                                                        <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                                                     </div>
+
                                                     <a class="folio-view-thumb zoom">
                                                         <img src="upload/folio17.jpg" alt="Awesome interior design just before holidays" />
                                                         <div class="arrow-down"></div>
@@ -272,6 +276,7 @@
                                                         <div class="folio-view-overlay-bg"></div>
                                                     </a>
                                                 </div>
+                                              
                                         </div> 
                                         <!--ItemsInmubles-->   
 
@@ -294,8 +299,10 @@
                                                         <div class="clear"></div>
                                                         <h1 class="single-folio-view-title"><a href="work.php#" >Oﬁcinas A1 de acuerdo a las necesidades de tu empresa</a></h1>
                                                         <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                                                        <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                                                     </div>
                                                 </div>
+                                               
                                             </div>
 
                                             <div class="pego-columns-auto-height  pego-columns6 fl folio-view isotope-item">
@@ -314,6 +321,7 @@
                                                             <div class="clear"></div>
                                                             <h1 class="single-folio-view-title"><a href="work.php#" >COMODIDAD PARA TUS COLABORADORES</a></h1>
                                                             <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                                                            <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -323,7 +331,7 @@
                                         <!--rowImgCarousel-->
                                         <div class="pego-columns pego-columns6 fl home-element5 colorsheme3"></div>
                                             <div class="pego-columns pego-columns6 fl home-element6">
-                                                <div class="owl-carousel owl-theme portfolio-wrapper">
+                                                <div class="owl-carousel owl-theme portfolio-wrapper owl-item">
                                                      <div class="item">
                                                         <h1 class="portfolio-title"><span>CERCA</span> PLAZA SAN MIGUEL</h1>
                                                         <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
@@ -369,8 +377,8 @@
                                         <!--seecionBannerDesktop-->
 
                                         <div class="about-wrapper">
-                                            <div class="pego-columns-auto-height pego-columns6 fl about-element2"><img class="fl" src="img/window.png" alt=""></div>
-                                            <div class="pego-columns-auto-height pego-columns6 fl about-element1" id="from">
+                                            <div class="pego-columns-auto-height pego-columns6 fl about-element2 bner2"><img class="fl" src="img/window.png" alt=""></div>
+                                            <div class="pego-columns-auto-height pego-columns6 fl about-element1" id="from" >
                                                 <h2 class="about-subtitle">BRÍNDANOS TUS DATOS Y</h2>
                                                 <h1 class="about-title">TE CONTACTAMOS</h1>
                                                 <div class="form-style-8" align="center">
@@ -394,9 +402,9 @@
                                         <!--Formulario-->
 
                                         <!--Direccion-->
-                                        <div class="pego-columns pego-columns12 fl home-element2 " align="center" style="height: 140px;vertical-align: middle;">
-                                            <h1 class="page-heading">La mejor ubicación para <span>oficinas en san miguel</span></h1>
-                                            <p>Calle Martín de Murúa 150 - Edificio Empresarial PLEXUS San Miguel, LIMA - PERÚ</p>
+                                        <div class="pego-columns pego-columns12 fl home-element2 " align="center" style="height: 140px;vertical-align: middle;background-color: #344f7b;">
+                                            <h1 class="page-heading address_color">La mejor ubicación para <span class="address_color">oficinas en san miguel</span></h1>
+                                            <p class="address_color">Calle Martín de Murúa 150 - Edificio Empresarial PLEXUS San Miguel, LIMA - PERÚ</p>
                                         </div>
                                         <!--Direccion-->
                                         <div class="clear"></div>
@@ -433,6 +441,22 @@
             <span class="sr-only">Ir arriba</span>
         </a>
         <!--bottonUp-->
+         <!--bottonUp-->
+        <a href="#from" class="scroll_mail" style="display: block;">
+            <i class="far fa-envelope" style="margin-top: 7px;"></i>
+            <span class="sr-only">Ir arriba</span>
+        </a>
+        <!--bottonUp-->
+
+        <!--whatas-->
+        <a href="http://api.whatsapp.com/send?phone=51956088899" class="scroll_top" style="display: block;">
+            <i class="fab fa-whatsapp fa-2x" style="margin-top: 6px;font-size: 38px;margin-left: 9px;">&nbsp;</i>
+            <span class="sr-only">Ir arriba</span>
+        </a>
+        <!--whatas-->
+
+
+
     <script type='text/javascript' src='js/jquery.min.js'></script>
     <script type='text/javascript' src='js/jquery/jquery.js'></script>
     <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
@@ -448,6 +472,24 @@
     <script type='text/javascript' src='js/custom.js'></script>
     <script type='text/javascript' src='js/js_composer_front.min.js'></script>
     <script type='text/javascript' src='js/owl.carousel.js'></script>
+    <script type="text/javascript">
+        $('.owl-carousel').owlCarousel({
+                loop:true,
+                margin:10,
+                nav:true,
+                responsive:{
+                    0:{
+                        items:1
+                    },
+                    600:{
+                        items:3
+                    },
+                    1000:{
+                        items:5
+                    }
+                }
+            })
+    </script>
     <script>
     $(function(){
          $('a[href*=#]').click(function() {

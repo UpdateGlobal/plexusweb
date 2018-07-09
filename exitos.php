@@ -65,8 +65,9 @@
 
         <style type="text/css">
             .thank{
-                font-size: 72px;
+                font-size: 32px;
                 color: white;
+                margin: 40px 0px;
             }
             .buttonw{
                     background: #000;
@@ -77,7 +78,7 @@
                     cursor: pointer;
                     display: inline-block;
                     color: #fff;
-                    width: 10%;
+                    width: 50%;
                     letter-spacing: 2px;
                     margin-bottom: 10px;
             }
@@ -90,12 +91,12 @@
 
         <div class="container-fluid" style="background-image: url(images/exito.jpg); background-repeat: no-repeat;background-position: center top; background-size: cover;">
             <div class="row">
-                <div class="col-md-12" align="center"style="padding-top: 300px; padding-bottom: 300px;">
+                <div class="col-md-12" align="center"style="padding-top: 100px; padding-bottom: 200px;">
 
-                    <i class="far fa-smile-wink fa-10x"></i>
+                    <i class="far fa-smile-wink fa-8x"></i>
                     <br>
-                    <h1 class="thank">gracias</h1>
-                    <a class="buttonw" href="index.php">Volver</a>
+                    <h1 class="thank">Te Contáctaremos a la brevedad, GRACIAS.</h1>
+                    <a class="buttonw" href="index.php">Volver <i class="fas fa-undo"></i> </a>
                     
                 </div>
             </div>
