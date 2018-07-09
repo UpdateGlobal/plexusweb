@@ -113,14 +113,14 @@
         <div id="header-wrapper" class="navbar" align="center">
             <!--menuDesktop-->
             <div class="logo">
-                <a href="index.php" title=""><img id="logoImageRetina" src="img/plexus.png" /></a>
+                <a href="index.php" title=""><img id="logoImageRetina" src="img/plexus.svg" /></a>
                 <span class="baner_what"></a><a href="http://api.whatsapp.com/send?phone=51956088899" target="new"><i class="fab fa-whatsapp fa-2x">&nbsp;</i><b style="font-size: 28px;">956088899</b></a><br>mcampuzano@plexus.pe</span>
             </div>
             <!--menuDesktop-->
 
             <!--menuResponsive-->
             <a class="mobile-menu-show">
-                <img src="img/plexus.png">
+                <img src="img/plexus.svg">
             </a>
             <!--menuResponsive-->           
             <div class="clear"></div>
@@ -424,7 +424,7 @@
         <!-- end container -->
         <!--footer-->
         <div class="footer">
-            <img src="img/plexus.png">
+            <img src="img/plexus.svg" width="200">
             <p>PLEXUS ES UN EDIFICIO CORPORATIVO EN EL NUEVO CENTRO EMPRESARIAL DE LIMA CON OFICINAS EN VENTA EN SAN MIGUEL AMPLIOS AMBIENTES, VISTA PANORÁMICA</p>
             <div class="row img_foo">
                 <a href="https://www.linkedin.com/company/update-global-marketing" target="_blank"><span class="social"> <i class="fab fa-linkedin-in"></i></span></a>
