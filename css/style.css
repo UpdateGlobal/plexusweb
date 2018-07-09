@@ -272,8 +272,8 @@ body {
 
 .container-wrapper {
 	width: 1260px;
-	margin: 0px auto 30px;
-/*	-webkit-box-shadow:0px 0px 15px 0px rgba(0, 0, 0, 0.2);
+	margin: 0px auto 0px;
+	/*	-webkit-box-shadow:0px 0px 15px 0px rgba(0, 0, 0, 0.2);
 	-moz-box-shadow:0px 0px 15px 0px rgba(0, 0, 0, 0.2);
 	box-shadow:0px 0px 15px 0px rgba(0, 0, 0, 0.2);
 	background: #fff;*/
@@ -335,7 +335,7 @@ body {
 
 .pego-columns img {
 	float: left;
-	height: 441px;
+	height: auto;
 	width: 100%;
 }
 

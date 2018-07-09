@@ -189,7 +189,7 @@
                         <div class="home-wrapper">
 
                             <div class="pego-columns12 fl home-element2" align="center" style="background-color: #344f7c14; padding: 20px 0px;">
-                                <h1 class="page-heading">OFICINAS EMPRESARIALES EN<span> EL NUEVO POLO COMERCIAL DE LIMA SAN MIGUEL</span></h1>
+                                <h1 class="page-heading" >OFICINAS EMPRESARIALES EN<span> EL NUEVO POLO COMERCIAL DE LIMA SAN MIGUEL</span></h1>
                                 <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                             </div>
               
@@ -205,7 +205,7 @@
                     <div class="home-wrapper">
                             <!--bannerprincipal-->
                             <div class="pego-columns12 fl home-element2" align="center" style="background-color: #344f7c14;">
-                                <h1 class="page-heading">Porqué invertir en plexus<span>oficinas en san miguel</span></h1>
+                                <h1 class="page-heading" style="margin-top: 30px;">Porqué invertir en plexus<span>oficinas en san miguel</span></h1>
                             </div>
                             <!--bannerprincipal-->
                             <!--seccionUno-->   
