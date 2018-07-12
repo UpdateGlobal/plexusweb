@@ -38,8 +38,8 @@
     <link rel='stylesheet' href='css/js_composer_front_custom.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/font-awesome.css' type='text/css' media='all' />
     <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&subset=latin,latin-ext' type='text/css' media='all' />
- <!--     <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700italic,700,800,800italic&ver=4.4.2' type='text/css' media='all' />
-   <link rel='stylesheet' href='http:s//fonts.googleapis.com/css?family=Playfair+Display:400,700&ver=4.4.2' type='text/css' media='all' /> -->
+   <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700italic,700,800,800italic&ver=4.4.2' type='text/css' media='all' />
+   <link rel='stylesheet' href='http:s//fonts.googleapis.com/css?family=Playfair+Display:400,700&ver=4.4.2' type='text/css' media='all' />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" />
 
     <link rel="stylesheet" href="css/custom.css" type='text/css' media='all' />
@@ -113,14 +113,14 @@
         <div id="header-wrapper" class="navbar" align="center">
             <!--menuDesktop-->
             <div class="logo">
-                <a href="index.php" title=""><img id="logoImageRetina" src="img/plexus.svg" /></a>
+                <a href="index.php" title=""><img  id="logoImageRetina" src="img/plexus.svg"/></a>
                 <span class="baner_what"></a><a href="https://api.whatsapp.com/send?phone=51956088899" target="new"><i class="fab fa-whatsapp fa-2x">&nbsp;</i><b style="font-size: 28px;">956088899</b></a><br>mcampuzano@plexus.pe</span>
             </div>
             <!--menuDesktop-->
 
             <!--menuResponsive-->
             <a class="mobile-menu-show">
-                <img src="img/plexus.svg">
+                <img src="img/plexus.svg" class="logom" >
             </a>
             <!--menuResponsive-->           
             <div class="clear"></div>
@@ -130,25 +130,18 @@
         <div id="container">
             <div id="post-5" class="post-5 page type-page status-publish hentry">
                  <div class="vc_row wpb_row vc_row-fluid">
-
-<style type="text/css">
-    
-@media screen and (max-width: 992px) {
-  .moviless {
-    display: none;
-  }
-}
-@media screen and (min-width: 992px) {
-  .deskless {
-    display: none;
-  }
-}
-
-</style>
-
-
-
-
+                        <style type="text/css">
+                        @media screen and (max-width: 992px) {
+                          .moviless {
+                            display: none;
+                          }
+                        }
+                        @media screen and (min-width: 992px) {
+                          .deskless {
+                            display: none;
+                          }
+                        }
+                        </style>
                     <!--slideshow-->
                     <div class="wpb_wrapper">
                         <br><br>
@@ -163,9 +156,6 @@
                                 </div>
                             </div>
                         </div>
-
-                       
-
                     </div>
                     <!--slideshow-->
                     <style type="text/css">
@@ -189,7 +179,8 @@
                         <div class="home-wrapper">
 
                             <div class="pego-columns12 fl home-element2" align="center" style="background-color: #344f7c14; padding: 20px 0px;">
-                                <h1 class="page-heading">OFICINAS EMPRESARIALES EN<span> EL NUEVO POLO COMERCIAL DE LIMA SAN MIGUEL</span></h1>
+                                <h1 class="page-heading" style="margin-bottom: 17px;">OFICINAS EMPRESARIALES EN<span> EL NUEVO POLO COMERCIAL DE LIMA SAN MIGUEL</span></h1>
+
                                 <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                             </div>
               
@@ -204,10 +195,11 @@
                     <!--home-wrapper-->  
                     <div class="home-wrapper">
                             <!--bannerprincipal-->
-                            <div class="pego-columns12 fl home-element2" align="center" style="background-color: #344f7c14;">
+                            <div class="pego-columns12 fl home-element2 heading_m" align="center" style="background-color: #344f7c14;">
                                 <h1 class="page-heading">Porqué invertir en plexus<span>oficinas en san miguel</span></h1>
                             </div>
                             <!--bannerprincipal-->
+
                             <!--seccionUno-->   
                             <div class="container-wrapper">
                                 <div class="pego-columns pego-columns6 fl home-element2">
@@ -244,12 +236,12 @@
                                                     </a>
                                                 <div class="folio-view-desc">
                                                 <div class="folio-view-categories">
-                                                    <a href="work.php#" rel="tag">AREAS COMUNES A1</a> </div>
+                                                    <a href="#" rel="tag">AREAS COMUNES A1</a> </div>
                                                         <div class="folio-view-separator"> / </div>
                                                         <div class="folio-view-date">Mayo 11, 2018</div>
                                                         <div class="clear"></div>
-                                                        <h1 class="single-folio-view-title"><a href="work.php#" >COMODIDAD PARA TUS COLABORADORES</a></h1>
-                                                        <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                                                        <h1 class="single-folio-view-title"><a href="#" >COMODIDAD PARA TUS COLABORADORES</a></h1>
+                                                        <p class="folio-view-summary">Lorems ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.quis nostr. velit esse cillum dolore eu fugiat nulla pariatur. </p>
                                                         <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                                                 </div>
                                                 
@@ -260,11 +252,11 @@
                                                 <div class="folio-view-item">
                                                     <div class="folio-view-desc">
                                                         <div class="folio-view-categories">
-                                                            <a href="work.php#" rel="tag">Desde 42 mt2</a>, <a href="work.php#" rel="tag">¿Entrega Inmediata!</a> </div>
+                                                            <a href="#" rel="tag">Desde 42 mt2</a>, <a href="#" rel="tag">¿Entrega Inmediata!</a> </div>
                                                         <div class="folio-view-separator"> / </div>
                                                         <div class="folio-view-date">Mayo 11, 2018</div>
                                                         <div class="clear"></div>
-                                                        <h1 class="single-folio-view-title"><a href="work.php#" >Oﬁcinas A1 de acuerdo a las necesidades de tu empresa</a></h1>
+                                                        <h1 class="single-folio-view-title"><a href="#" >Oﬁcinas A1 de acuerdo a las necesidades de tu empresa</a></h1>
                                                         <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
                                                         <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                                                     </div>
@@ -293,11 +285,11 @@
                                                     </a>
                                                     <div class="folio-view-desc">
                                                         <div class="folio-view-categories">
-                                                            <a href="work.php#" rel="tag">Desde 42 mt2</a>, <a href="work.php#" rel="tag">¿Entrega Inmediata!</a> </div>
+                                                            <a href="#" rel="tag">Desde 42 mt2</a>, <a href="#" rel="tag">¿Entrega Inmediata!</a> </div>
                                                         <div class="folio-view-separator"> / </div>
                                                         <div class="folio-view-date">Mayo 11, 2018</div>
                                                         <div class="clear"></div>
-                                                        <h1 class="single-folio-view-title"><a href="work.php#" >Oﬁcinas A1 de acuerdo a las necesidades de tu empresa</a></h1>
+                                                        <h1 class="single-folio-view-title"><a href="#" >Oﬁcinas A1 de acuerdo a las necesidades de tu empresa</a></h1>
                                                         <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
                                                         <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                                                     </div>
@@ -315,11 +307,11 @@
                                                         </a>
                                                     <div class="folio-view-desc">
                                                     <div class="folio-view-categories">
-                                                        <a href="work.php#" rel="tag">AREAS COMUNES A1</a> </div>
+                                                        <a href="#" rel="tag">AREAS COMUNES A1</a> </div>
                                                             <div class="folio-view-separator"> / </div>
                                                             <div class="folio-view-date">Mayo 11, 2018</div>
                                                             <div class="clear"></div>
-                                                            <h1 class="single-folio-view-title"><a href="work.php#" >COMODIDAD PARA TUS COLABORADORES</a></h1>
+                                                            <h1 class="single-folio-view-title"><a href="#" >COMODIDAD PARA TUS COLABORADORES</a></h1>
                                                             <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
                                                             <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                                                     </div>
