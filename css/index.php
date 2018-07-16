@@ -13,25 +13,11 @@
     <meta name="geo.region" content="PE-LIM" />
     <meta name="robots" content="INDEX,FOLLOW" />
     
-
-    <!-- Facebook and Twitter integration -->
-  <!-- twitter card starts from here, if you don't need remove this section -->
-      <meta name="twitter:url" content="" />
-      <meta name="twitter:title" content="PLEXUS - EDIFICIO CORPORATIVO" /> <!-- maximum 140 char -->
-      <meta name="twitter:description" content="Oficinas en venta en San Miguel, nuevo polo Comercial de Lima. Contáctanos al +51956088899" /> <!-- maximum 140 char -->
-      <meta name="twitter:image" content="ipic/meta.jpg" /> <!-- when you post this page url in twitter , this image will be shown -->
-      <!-- twitter card ends from here -->
-
-      <!-- facebook open graph starts from here, if you don't need then delete open graph related  -->
-      <meta property="og:title" content="Update | Desarrollamos tu marca" />
-      <meta property="og:url" content="" />
-      <meta property="og:locale" content="es_PE" />
-      <meta property="og:site_name" content="LEXUS - EDIFICIO CORPORATIV" />
-      <!--meta property="fb:admins" content="" /-->  <!-- use this if you have  -->
-      <meta property="og:type" content="website:landing" />
-      <meta property="og:description" content="Oficinas en venta en San Miguel, nuevo polo Comercial de Lima. Contáctanos al +51956088899" />
-      <meta property="og:image" content="ipic/meta.jpg" /> <!-- when you post this page url in facebook , this image will be shown -->
-
+    <meta property="og:title" content="PLEXUS - EDIFICIO CORPORATIVO" />
+    <meta property="og:type" content="website.RealEstate" />
+    <meta property="og:description" content="Plexus es un edificio corporativo en el nuevo centro empresarial de lima con oficinas en venta en San Miguel amplios ambientes, vista panorámica." />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="img/edificio.jpg" />
 
     <!-- for mobile devices -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -51,10 +37,6 @@
     <link rel='stylesheet' href='css/media.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/js_composer_front_custom.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/font-awesome.css' type='text/css' media='all' />
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
-
-
-
     <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&subset=latin,latin-ext' type='text/css' media='all' />
    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700italic,700,800,800italic&ver=4.4.2' type='text/css' media='all' />
    <link rel='stylesheet' href='http:s//fonts.googleapis.com/css?family=Playfair+Display:400,700&ver=4.4.2' type='text/css' media='all' />
@@ -75,8 +57,8 @@
             $comentario     = $_POST['mensaje'];
             $fecha_ingreso  = $_POST['fecha_ingreso'];
 
-            $emailDestino = "mcampuzano@plexus.pe, luizupdate@gmail.com";
-            $encabezado = "Plexus Contacto - Enviado desde Landing Update";
+            $emailDestino = "mcampuzano@plexus.pe";
+            $encabezado = "Enviado desde Plexus";
             $mensaje .= "Información del Contacto\n";
             $mensaje .= "------------------------\n";
             $mensaje .= "Nombres        :".$nombre."\n";
@@ -132,7 +114,7 @@
             <!--menuDesktop-->
             <div class="logo">
                 <a href="index.php" title=""><img  id="logoImageRetina" src="img/plexus.svg"/></a>
-                <span class="baner_what"></a><a href="https://api.whatsapp.com/send?phone=51956088899" target="new"><i class="fab fa-whatsapp fa-2x">&nbsp;</i><b style="font-size: 28px;">+51 956 088 899</b></a><br>mcampuzano@plexus.pe</span>
+                <span class="baner_what"></a><a href="https://api.whatsapp.com/send?phone=51956088899" target="new"><i class="fab fa-whatsapp fa-2x">&nbsp;</i><b style="font-size: 28px;">956088899</b></a><br>mcampuzano@plexus.pe</span>
             </div>
             <!--menuDesktop-->
 
@@ -167,7 +149,7 @@
                             <div id="layerslider_2_1456695929_1" class="ls-wp-container" style="width:1260px;height:580px;max-width:1260px;margin:0 auto;margin-bottom: 0px;">
                                 <div class="ls-slide" data-ls="slidedelay:8000;transition2d:75,79;">
                                     <img class="ls-l" style="top:0px;left:0px;white-space: nowrap;" data-ls="offsetxin:0;durationin:2000;easingin:linear;offsetxout:0;durationout:6000;easingout:linear;fadeout:false;scalexout:0;scaleyout:0;"  alt="">
-                                    <p class="ls-l" style="top:220px;left:87px;font-weight: 700; text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); letter-spacing: -2px;padding-left:20px;font-family:'Open Sans', sans-serif;;font-size:40px;line-height:52px;color:#ffffff;white-space: nowrap;" data-ls="durationin:1500;delayin:1300;rotatein:20;rotatexin:30;scalexin:1.5;scaleyin:1.5;transformoriginin:left 50% 0;durationout:750;rotateout:20;rotatexout:-30;scalexout:0;scaleyout:0;transformoriginout:left 50% 0;">OFICINAS ENTREGA INMEDIATA<br>A SÓLO 20 MINUTOS DEL PUERTO DEL CALLAO</p>
+                                    <p class="ls-l" style="top:220px;left:87px;font-weight: 700; text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); letter-spacing: -2px;padding-left:20px;font-family:'Open Sans', sans-serif;;font-size:40px;line-height:52px;color:#ffffff;white-space: nowrap;" data-ls="durationin:1500;delayin:1300;rotatein:20;rotatexin:30;scalexin:1.5;scaleyin:1.5;transformoriginin:left 50% 0;durationout:750;rotateout:20;rotatexout:-30;scalexout:0;scaleyout:0;transformoriginout:left 50% 0;">CENTRO EMPRESARIAL<br>EN EL NUEVO POLO COMERCIAL DE LIMA</p>
                                     <p class="ls-l" style="top:340px;left:114px;font-weight: 400; text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); letter-spacing: -1px;font-family:'Open Sans', sans-serif;;font-size:25px;line-height:28px;color:#ffffff;white-space: nowrap;" data-ls="durationin:1500;delayin:2500;rotatein:20;rotatexin:30;scalexin:1.5;scaleyin:1.5;transformoriginin:left 50% 0;durationout:750;rotateout:20;rotatexout:-30;scalexout:0;scaleyout:0;transformoriginout:left 50% 0;">Visítanos en: Calle Martín de Murúa 150 - San Miguel.</p>
                                     <div class="ls-l" style="top:390px;left:114px;background: #000; padding: 20px 30px; font-weight: 700; text-transform: uppercase;; font-size: 13px; display: inline-block; color: #fff;white-space: nowrap;" data-ls="durationin:1500;delayin:3500;"><a href="#from" title="" target="_self" style="color: #fff;">Cotiza Aqui</a>
                                     </div>
@@ -197,7 +179,7 @@
                         <div class="home-wrapper">
 
                             <div class="pego-columns12 fl home-element2" align="center" style="background-color: #344f7c14; padding: 20px 0px;">
-                                <h1 class="page-heading" style="margin-bottom: 17px;">OFICINAS ENTREGA INMEDIATA EN<span>A SÓLO 20 MINUTOS DEL PUERTO DEL CALLAO</span></h1>
+                                <h1 class="page-heading" style="margin-bottom: 17px;">OFICINAS EMPRESARIALES EN<span> EL NUEVO POLO COMERCIAL DE LIMA SAN MIGUEL</span></h1>
 
                                 <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                             </div>
@@ -342,46 +324,35 @@
                                         <div class="pego-columns pego-columns6 fl home-element5 colorsheme3"></div>
                                             <div class="pego-columns pego-columns6 fl home-element6">
                                                 <div class="owl-carousel owl-theme portfolio-wrapper owl-item">
-                                                    <div class="item">
-                                                        <h1 class="portfolio-title"><span>20  MINUTOS PUERTO</span> DEL CALLAO</h1>
-                                                        <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatatas.</p>
-                                                        <img src="upload/puerto-callao.jpg" class="portfolio-image" alt="&lt;span&gt;Modern and&lt;/span&gt; square house" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
-                                                        <div class="clear"></div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <h1 class="portfolio-title"><span>30 MINUTOS</span> DEL AEROPUERTO</h1>
-                                                        <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
-
-                                                        <img src="upload/aeropuerto-jorge-chavez.jpg" class="portfolio-image" alt="&lt;span&gt;Renovated&lt;/span&gt; interior house" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
-                                                        <div class="clear"></div>
-                                                    </div>
                                                      <div class="item">
                                                         <h1 class="portfolio-title"><span>CERCA</span> PLAZA SAN MIGUEL</h1>
                                                         <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
-
                                                         <img src="upload/plaza-san-miguel.jpg" class="portfolio-image" alt="&lt;span&gt;Colored&lt;/span&gt; interior design" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
                                                         <div class="clear"></div></div>
                                                     <div class="item">
                                                         <h1 class="portfolio-title"><span>CERCA</span>METRO LA MARINA</h1>
-                                                        <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
-                                                        <img src="upload/metrolamarina.jpg" class="portfolio-image" alt="&lt;span&gt;Family house&lt;/span&gt; in nature" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
+                                                        <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p><img src="upload/metrolamarina.jpg" class="portfolio-image" alt="&lt;span&gt;Family house&lt;/span&gt; in nature" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
                                                         <div class="clear"></div>
                                                     </div>
-                                                    
+                                                    <div class="item">
+                                                        <h1 class="portfolio-title"><span>30 MINUTOS</span> DEL AEROPUERTO</h1>
+                                                        <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p><img src="upload/aeropuerto-jorge-chavez.jpg" class="portfolio-image" alt="&lt;span&gt;Renovated&lt;/span&gt; interior house" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
+                                                        <div class="clear"></div>
+                                                    </div>
+                                                    <div class="item">
+                                                        <h1 class="portfolio-title"><span>20  MINUTOS PUERTO</span> DEL CALLAO</h1>
+                                                        <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p><img src="upload/puerto-callao.jpg" class="portfolio-image" alt="&lt;span&gt;Modern and&lt;/span&gt; square house" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
+                                                        <div class="clear"></div>
+                                                    </div>
                                                     <div class="item">
                                                         <h1 class="portfolio-title"><span>PRÓXIMIDAD</span>AV. LA MARINA</h1>
-                                                        <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
-
-                                                        <img src="upload/lamarina.jpg" class="portfolio-image" alt="&lt;span&gt;Luxury&lt;/span&gt; House in Bali" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
+                                                        <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p><img src="upload/lamarina.jpg" class="portfolio-image" alt="&lt;span&gt;Luxury&lt;/span&gt; House in Bali" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
                                                         <div class="clear"></div>
                                                     </div>
                                                 </div>    
                                             </div>
                                         </div>
                                         <!--rowImgCarousel-->
-
-                                
-                                        </script>
 
 
                                         <!--seccionBannerMovil-->
@@ -453,7 +424,7 @@
             </div>
         </div>
         <div style="background-color: black;color: white; padding: 20px;" align="center">
-            <p style="margin: 0px;color: white;"><a href="https://update.pe/marketing-digital/">Desarrollado por Update Global Marketing</a></p>
+            <p style="margin: 0px;color: white;"> Desarrollado por Update Global Marketing</p>
         </div>
   
       <!--botonesfixed-->

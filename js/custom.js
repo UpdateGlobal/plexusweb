@@ -75,7 +75,8 @@ jQuery(document).ready(function() {
       ],
       navigation : false,
       pagination : true,
-      autoPlay: 5000
+      autoPlay: 2000,
+      autoplayTimeout:2000,
   });
 });
 }
@@ -98,9 +99,10 @@ jQuery(document).ready(function() {
         [1400, 1],
         [1600, 1]
       ],
-      navigation : true,
-      pagination : true,
-      paginationNumbers : true,
+      navigation : false,
+      pagination : false,
+      autoPlay : true,
+      paginationNumbers : false,
       navigationText : false
   });
 });
