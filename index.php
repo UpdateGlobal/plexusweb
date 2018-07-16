@@ -417,7 +417,7 @@
         <!--footer-->
         <div class="footer">
             <img src="img/plexus.svg" width="250">
-            <p>PLEXUS ES UN EDIFICIO CORPORATIVO EN EL NUEVO CENTRO EMPRESARIAL DE LIMA CON OFICINAS EN VENTA EN SAN MIGUEL AMPLIOS AMBIENTES, VISTA PANORÁMICA</p>
+            <p>Las oficinas en venta de Plexus están ubicadas en el nuevo Polo Empresarial de Lima, San Miguel. Tienen vista panorámica y amplios ambientes</p>
             <div class="row img_foo">
                 <a href="https://www.linkedin.com/company/update-global-marketing" target="_blank"><span class="social"> <i class="fab fa-linkedin-in"></i></span></a>
                 <a href="https://www.facebook.com/updatemarketing/" target="_blank"><span class="social"> <i class="fab fa-facebook-f"></i></span></a>

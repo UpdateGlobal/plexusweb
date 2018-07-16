@@ -60,7 +60,7 @@
 	.page-testimonails, .home-wrapper .home-element4, .home-wrapper .home-element5, .home-wrapper .home-element6  { height: auto; }
 	.mobile-menu-show { display: block; }
 	.menu-wrapper { display: none; }
-	.pego-columns img { float: none; }
+	.pego-columns img {float: none;margin-top: 90px;}
 	.single-service-image { width: 100%; text-align: center; } 
 	h1.service-title, p.service-excerpt { text-align: center; }
 	.single-service { border-bottom: 1px solid #fafafa; margin-bottom: 30px; }
@@ -110,7 +110,7 @@
 	h1.single-post-view-title { font-size: 30px; letter-spacing: -1px; }
 	h1.portfolio-title{ padding: 0 30px; }
 	p.portfolio-summary  { margin-bottom: 10px; }
-	div.owl-controls { opacity: 0 !important; visibility: hidden !important; display: none !important; }
+	div.owl-controls {/* opacity: 0 !important; *//* visibility: hidden !important; *//* display: none !important; */}
 	.services-wrapper a, .services-wrapper p { padding: 17px 0; }
 	.footer { padding: 18px 40px; }
 	.arrow-up { bottom: -2px; }
