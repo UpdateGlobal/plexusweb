@@ -418,7 +418,7 @@
                                         <!--Formulario-->
 
                                         <!--Direccion-->
-                                        <div class="pego-columns pego-columns12 fl home-element2 " align="center" style="height: 140px;vertical-align: middle;background-color: #344f7b;">
+                                        <div class="pego-columns pego-columns12 fl home-element2 " align="center" style="height: auto;padding-top: 30px;vertical-align: middle;background-color: #344f7b;">
                                             <h1 class="page-heading address_color">La mejor ubicación para <span class="address_color">oficinas en san miguel</span></h1>
                                             <p class="address_color">Calle Martín de Murúa 150 - Edificio Empresarial PLEXUS San Miguel, LIMA - PERÚ</p>
                                         </div>
