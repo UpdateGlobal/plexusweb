@@ -19,18 +19,18 @@
       <meta name="twitter:url" content="" />
       <meta name="twitter:title" content="PLEXUS - EDIFICIO CORPORATIVO" /> <!-- maximum 140 char -->
       <meta name="twitter:description" content="Oficinas en venta en San Miguel, nuevo polo Comercial de Lima. Contáctanos al +51956088899" /> <!-- maximum 140 char -->
-      <meta name="twitter:image" content="ipic/meta.jpg" /> <!-- when you post this page url in twitter , this image will be shown -->
+      <meta name="twitter:image" content="pic/meta.jpg" /> <!-- when you post this page url in twitter , this image will be shown -->
       <!-- twitter card ends from here -->
 
       <!-- facebook open graph starts from here, if you don't need then delete open graph related  -->
       <meta property="og:title" content="Update | Desarrollamos tu marca" />
       <meta property="og:url" content="" />
       <meta property="og:locale" content="es_PE" />
-      <meta property="og:site_name" content="LEXUS - EDIFICIO CORPORATIV" />
+      <meta property="og:site_name" content="PLEXUS - EDIFICIO CORPORATIVO" />
       <!--meta property="fb:admins" content="" /-->  <!-- use this if you have  -->
       <meta property="og:type" content="website:landing" />
       <meta property="og:description" content="Oficinas en venta en San Miguel, nuevo polo Comercial de Lima. Contáctanos al +51956088899" />
-      <meta property="og:image" content="ipic/meta.jpg" /> <!-- when you post this page url in facebook , this image will be shown -->
+      <meta property="og:image" content="pic/meta.jpg" /> <!-- when you post this page url in facebook , this image will be shown -->
 
 
     <!-- for mobile devices -->
@@ -169,7 +169,7 @@
                                     <img class="ls-l" style="top:0px;left:0px;white-space: nowrap;" data-ls="offsetxin:0;durationin:2000;easingin:linear;offsetxout:0;durationout:6000;easingout:linear;fadeout:false;scalexout:0;scaleyout:0;"  alt="">
                                     <p class="ls-l" style="top:220px;left:87px;font-weight: 700; text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); letter-spacing: -2px;padding-left:20px;font-family:'Open Sans', sans-serif;;font-size:40px;line-height:52px;color:#ffffff;white-space: nowrap;" data-ls="durationin:1500;delayin:1300;rotatein:20;rotatexin:30;scalexin:1.5;scaleyin:1.5;transformoriginin:left 50% 0;durationout:750;rotateout:20;rotatexout:-30;scalexout:0;scaleyout:0;transformoriginout:left 50% 0;">OFICINAS ENTREGA INMEDIATA<br>A SÓLO 20 MINUTOS DEL PUERTO DEL CALLAO</p>
                                     <p class="ls-l" style="top:340px;left:114px;font-weight: 400; text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); letter-spacing: -1px;font-family:'Open Sans', sans-serif;;font-size:25px;line-height:28px;color:#ffffff;white-space: nowrap;" data-ls="durationin:1500;delayin:2500;rotatein:20;rotatexin:30;scalexin:1.5;scaleyin:1.5;transformoriginin:left 50% 0;durationout:750;rotateout:20;rotatexout:-30;scalexout:0;scaleyout:0;transformoriginout:left 50% 0;">Visítanos en: Calle Martín de Murúa 150 - San Miguel.</p>
-                                    <div class="ls-l" style="top:390px;left:114px;background: #000; padding: 20px 30px; font-weight: 700; text-transform: uppercase;; font-size: 13px; display: inline-block; color: #fff;white-space: nowrap;" data-ls="durationin:1500;delayin:3500;"><a href="#from" title="" target="_self" style="color: #fff;">Cotiza Aqui</a>
+                                    <div class="ls-l" style="top:390px;left:114px;background: #000; padding: 20px 30px; font-weight: 700; text-transform: uppercase;; font-size: 13px; display: inline-block; color: #fff;white-space: nowrap;" data-ls="durationin:1500;delayin:3500;"><a href="#from" title="" target="_self" style="color: #fff;">Coordina tu cita aquí</a>
                                     </div>
                                 </div>
                             </div>
@@ -199,7 +199,7 @@
                             <div class="pego-columns12 fl home-element2" align="center" style="background-color: #344f7c14; padding: 20px 30px;">
                                 <h1 class="page-heading" style="margin-bottom: 17px;">OFICINAS ENTREGA INMEDIATA EN<span>A SÓLO 20 MINUTOS DEL PUERTO DEL CALLAO</span></h1>
 
-                                <a href="#from" class="portfolio-read">Cotiza Aqui</a>
+                                <a href="#from" class="portfolio-read">Coordina tu cita aquí</a>
                             </div>
               
                             <img src="img/edificio.jpg" style="width: 100%; height: 200px;">
@@ -227,32 +227,32 @@
                                             <div class="item">
                                                 <h1 class="portfolio-title"><span>20  MINUTOS PUERTO</span> DEL CALLAO</h1>
                                                 <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatatas.</p>
-                                                <img src="upload/puerto-callao.jpg" class="portfolio-image" alt="&lt;span&gt;Modern and&lt;/span&gt; square house" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
+                                                <img src="upload/puerto-callao.jpg" class="portfolio-image" alt="&lt;span&gt;Modern and&lt;/span&gt; square house" /><a href="index.php#" class="portfolio-read-more">Coordina tu cita aquí</a>
                                                 <div class="clear"></div>
                                             </div>
                                             <div class="item">
                                                 <h1 class="portfolio-title"><span>30 MINUTOS</span> DEL AEROPUERTO</h1>
                                                     <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
 
-                                                    <img src="upload/aeropuerto-jorge-chavez.jpg" class="portfolio-image" alt="&lt;span&gt;Renovated&lt;/span&gt; interior house" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
+                                                    <img src="upload/aeropuerto-jorge-chavez.jpg" class="portfolio-image" alt="&lt;span&gt;Renovated&lt;/span&gt; interior house" /><a href="index.php#" class="portfolio-read-more">Coordina tu cita aquí</a>
                                                     <div class="clear"></div>
                                             </div>
                                             <div class="item">
                                                 <h1 class="portfolio-title"><span>CERCA</span> PLAZA SAN MIGUEL</h1>
                                                 <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
-                                                <img src="upload/plaza-san-miguel.jpg" class="portfolio-image" alt="&lt;span&gt;Colored&lt;/span&gt; interior design" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
+                                                <img src="upload/plaza-san-miguel.jpg" class="portfolio-image" alt="&lt;span&gt;Colored&lt;/span&gt; interior design" /><a href="index.php#" class="portfolio-read-more">Coordina tu cita aquí</a>
                                                 <div class="clear"></div>
                                             </div>
                                             <div class="item">
                                                 <h1 class="portfolio-title"><span>CERCA</span>METRO LA MARINA</h1>
                                                 <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
-                                                <img src="upload/metrolamarina.jpg" class="portfolio-image" alt="&lt;span&gt;Family house&lt;/span&gt; in nature" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
+                                                <img src="upload/metrolamarina.jpg" class="portfolio-image" alt="&lt;span&gt;Family house&lt;/span&gt; in nature" /><a href="index.php#" class="portfolio-read-more">Coordina tu cita aquí</a>
                                                 <div class="clear"></div>
                                             </div>
                                             <div class="item">
                                                 <h1 class="portfolio-title"><span>PRÓXIMIDAD</span>AV. LA MARINA</h1>
                                                 <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
-                                                <img src="upload/lamarina.jpg" class="portfolio-image" alt="&lt;span&gt;Luxury&lt;/span&gt; House in Bali" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
+                                                <img src="upload/lamarina.jpg" class="portfolio-image" alt="&lt;span&gt;Luxury&lt;/span&gt; House in Bali" /><a href="index.php#" class="portfolio-read-more">Coordina tu cita aquí</a>
                                                 <div class="clear"></div>
                                             </div>
                                         </div>    
@@ -306,7 +306,7 @@
                                                     <div class="clear"></div>
                                                     <h1 class="single-folio-view-title"><a href="#" >COMODIDAD PARA TUS COLABORADORES</a></h1>
                                                     <p class="folio-view-summary">Lorems ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.quis nostr. velit esse cillum dolore eu fugiat nulla pariatur. </p>
-                                                    <a href="#from" class="portfolio-read">Cotiza Aqui</a>
+                                                    <a href="#from" class="portfolio-read">Coordina tu cita aquí</a>
                                                 </div>
                                             </div><!--pibote-->
                                         </div>
@@ -314,13 +314,13 @@
                                                 <div class="folio-view-item">
                                                     <div class="folio-view-desc">
                                                         <div class="folio-view-categories">
-                                                            <a href="#" rel="tag">Desde 42 mt2</a>, <a href="#" rel="tag">¿Entrega Inmediata!</a> </div>
+                                                            <a href="#" rel="tag">Desde 42 mt2</a>, <a href="#" rel="tag">¡Entrega Inmediata!</a> </div>
                                                         <div class="folio-view-separator"> / </div>
                                                         <div class="folio-view-date">Mayo 11, 2018</div>
                                                         <div class="clear"></div>
                                                         <h1 class="single-folio-view-title"><a href="#" >Oﬁcinas A1 de acuerdo a las necesidades de tu empresa</a></h1>
                                                         <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
-                                                        <a href="#from" class="portfolio-read">Cotiza Aqui</a>
+                                                        <a href="#from" class="portfolio-read">Coordina tu cita aquí</a>
                                                     </div>
 
                                                     <a class="folio-view-thumb zoom">
@@ -346,13 +346,13 @@
                                                     </a>
                                                     <div class="folio-view-desc">
                                                         <div class="folio-view-categories">
-                                                            <a href="#" rel="tag">Desde 42 mt2</a>, <a href="#" rel="tag">¿Entrega Inmediata!</a> </div>
+                                                            <a href="#" rel="tag">Desde 42 mt2</a>, <a href="#" rel="tag">¡Entrega Inmediata!</a> </div>
                                                         <div class="folio-view-separator"> / </div>
                                                         <div class="folio-view-date">Mayo 11, 2018</div>
                                                         <div class="clear"></div>
                                                         <h1 class="single-folio-view-title"><a href="#" >Oﬁcinas A1 de acuerdo a las necesidades de tu empresa</a></h1>
                                                         <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
-                                                        <a href="#from" class="portfolio-read">Cotiza Aqui</a>
+                                                        <a href="#from" class="portfolio-read">Coordina tu cita aquí</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -372,7 +372,7 @@
                                                             <div class="clear"></div>
                                                             <h1 class="single-folio-view-title"><a href="#" >COMODIDAD PARA TUS COLABORADORES</a></h1>
                                                             <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
-                                                            <a href="#from" class="portfolio-read">Cotiza Aqui</a>
+                                                            <a href="#from" class="portfolio-read">Coordina tu cita aquí</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -381,13 +381,13 @@
 
                                         <!--seccionBannerMovil-->
                                         <div class="pego-columns pego-columns12 fl home-element2 movil_bner2" align="center" style=" background-color: black;">
-                                            <h2 class="page-heading-2" align="center" style="font-size: 18px;padding: 30px 5px;">NO ESPERES MÁS COMUNÍCATE <span style="font-size: 19px;font-weight: 700;">SOLICITA TU COTIZACIÓN AQUÍ</span></h2>
+                                            <h2 class="page-heading-2" align="center" style="font-size: 18px;padding: 30px 5px;">NO ESPERES MÁS COMUNÍCATE <span style="font-size: 19px;font-weight: 700;">SOLICITA TU CITA AQUÍ</span></h2>
                                         </div>
                                         <!--seccionBannerMovil-->
 
                                         <!--seecionBannerDesktop-->
                                         <div class="pego-columns pego-columns12 fl home-element2 bner2" align="center" style="padding: 35px 40px 30px; height: 180px; background-color: black;">
-                                            <h1 class="page-heading-2">NO ESPERES MÁS COMUNÍCATE <br><span style="font-size: 52px;font-weight: 700;">SOLICITA TU COTIZACIÓN AQUÍ</span></h1>
+                                            <h1 class="page-heading-2">NO ESPERES MÁS COMUNÍCATE <br><span style="font-size: 52px;font-weight: 700;">SOLICITA TU CITA AQUÍ</span></h1>
                                         </div>  
                                         <!--seecionBannerDesktop-->
 
