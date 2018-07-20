@@ -429,6 +429,7 @@ p.page-summary {
 	font-size: 14px;
 	line-height: 1.6;
 	margin-bottom: 20px;
+	text-align: justify;
 }
 a.page-read-more-button {
 	background: #000;
@@ -1056,7 +1057,7 @@ a.portfolio-read-more {
 	position: absolute;
     bottom: 50px;
     left: 50%;
-    margin-left: -70px;
+    margin-left: -108px;
     color: #fff;
 }
 
@@ -2624,6 +2625,7 @@ a.other-project { display: block; line-height: 0; }
 .folio-view-summary {
 	float: left;
 	margin-top: 20px;
+	text-align: justify;
 }
 
 .arrow-up { 

@@ -20,7 +20,7 @@
 	p.service-excerpt, p.history-page-summary { font-size: 12px; }
 	.home-wrapper h1.page-heading, .home-wrapper h1.page-heading span {font-size: 32px;margin-bottom: 10px;}
 	.home-wrapper h1.page-heading span {font-size: 42px;}
-	p.page-summary {font-size: 14px;margin-bottom: 10px;}
+	p.page-summary {font-size: 14px;margin-bottom: 10px;padding-right: 18px;}
 	a.page-read-more-button { padding: 10px 15px; font-size: 13px; }
 	.page-icon-wrapper .page-title { padding: 0 60px; }
 	.services-wrapper a, .services-wrapper p { font-size: 15px; padding: 19px 40px 18px; }
