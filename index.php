@@ -212,15 +212,59 @@
 
                     <!--home-wrapper-->  
                     <div class="home-wrapper">
+
                             <!--bannerprincipal-->
                             <div class="pego-columns12 fl home-element2 heading_m" align="center" style="background-color: #344f7c14;">
                                 <h1 class="page-heading">Porqué invertir en plexus<span>oficinas en san miguel</span></h1>
                             </div>
                             <!--bannerprincipal-->
 
+                            <!--rowImgCarousel-->
+                            <div class="container-wrapper">
+                                <div class="pego-columns pego-columns6 fl home-element5 colorsheme3"></div>
+                                    <div class="pego-columns pego-columns6 fl home-element6" style="text-align: center;">
+                                        <div class="owl-carousel owl-theme portfolio-wrapper owl-item">
+                                            <div class="item">
+                                                <h1 class="portfolio-title"><span>20  MINUTOS PUERTO</span> DEL CALLAO</h1>
+                                                <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatatas.</p>
+                                                <img src="upload/puerto-callao.jpg" class="portfolio-image" alt="&lt;span&gt;Modern and&lt;/span&gt; square house" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
+                                                <div class="clear"></div>
+                                            </div>
+                                            <div class="item">
+                                                <h1 class="portfolio-title"><span>30 MINUTOS</span> DEL AEROPUERTO</h1>
+                                                    <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+
+                                                    <img src="upload/aeropuerto-jorge-chavez.jpg" class="portfolio-image" alt="&lt;span&gt;Renovated&lt;/span&gt; interior house" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
+                                                    <div class="clear"></div>
+                                            </div>
+                                            <div class="item">
+                                                <h1 class="portfolio-title"><span>CERCA</span> PLAZA SAN MIGUEL</h1>
+                                                <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                                                <img src="upload/plaza-san-miguel.jpg" class="portfolio-image" alt="&lt;span&gt;Colored&lt;/span&gt; interior design" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
+                                                <div class="clear"></div>
+                                            </div>
+                                            <div class="item">
+                                                <h1 class="portfolio-title"><span>CERCA</span>METRO LA MARINA</h1>
+                                                <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                                                <img src="upload/metrolamarina.jpg" class="portfolio-image" alt="&lt;span&gt;Family house&lt;/span&gt; in nature" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
+                                                <div class="clear"></div>
+                                            </div>
+                                            <div class="item">
+                                                <h1 class="portfolio-title"><span>PRÓXIMIDAD</span>AV. LA MARINA</h1>
+                                                <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                                                <img src="upload/lamarina.jpg" class="portfolio-image" alt="&lt;span&gt;Luxury&lt;/span&gt; House in Bali" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
+                                                <div class="clear"></div>
+                                            </div>
+                                        </div>    
+                                    </div>
+                                </div>
+                            </div>
+                            <!--rowImgCarousel-->
+
                             <!--seccionUno-->   
                             <div class="container-wrapper">
                                 <div class="pego-columns pego-columns6 fl home-element2">
+                                    <br>
                                     <h1 class="page-title">SAN MIGUEL <span>NUEVO POLO COMERCIAL DE LIMA</span></h1>
                                     <p class="page-summary">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                                 </div>
@@ -239,10 +283,12 @@
                                     </a>
                                 </div>
                             </div>
-                            <!--seccionUno-->              
+                            <!--seccionUno-->  
+
                             <!--foldercontainer-->
                                 <div class="container-wrapper">
                                     <div class="folio-view-wrapper">
+
                                         <!--ItemsInmubles-->
                                         <div class="pego-columns-auto-height  pego-columns6 fl folio-view isotope-item bner2">
                                                 <div class="folio-view-item">
@@ -255,17 +301,15 @@
                                                 <div class="folio-view-desc">
                                                 <div class="folio-view-categories">
                                                     <a href="#" rel="tag">AREAS COMUNES A1</a> </div>
-                                                        <div class="folio-view-separator"> / </div>
-                                                        <div class="folio-view-date">Mayo 11, 2018</div>
-                                                        <div class="clear"></div>
-                                                        <h1 class="single-folio-view-title"><a href="#" >COMODIDAD PARA TUS COLABORADORES</a></h1>
-                                                        <p class="folio-view-summary">Lorems ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.quis nostr. velit esse cillum dolore eu fugiat nulla pariatur. </p>
-                                                        <a href="#from" class="portfolio-read">Cotiza Aqui</a>
+                                                    <div class="folio-view-separator"> / </div>
+                                                    <div class="folio-view-date">Mayo 11, 2018</div>
+                                                    <div class="clear"></div>
+                                                    <h1 class="single-folio-view-title"><a href="#" >COMODIDAD PARA TUS COLABORADORES</a></h1>
+                                                    <p class="folio-view-summary">Lorems ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.quis nostr. velit esse cillum dolore eu fugiat nulla pariatur. </p>
+                                                    <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                                                 </div>
-                                                
-                                            </div>
+                                            </div><!--pibote-->
                                         </div>
-
                                         <div class="pego-columns-auto-height  pego-columns6 fl folio-view isotope-item bner2">
                                                 <div class="folio-view-item">
                                                     <div class="folio-view-desc">
@@ -286,7 +330,6 @@
                                                         <div class="folio-view-overlay-bg"></div>
                                                     </a>
                                                 </div>
-                                              
                                         </div> 
                                         <!--ItemsInmubles-->   
 
@@ -312,9 +355,7 @@
                                                         <a href="#from" class="portfolio-read">Cotiza Aqui</a>
                                                     </div>
                                                 </div>
-                                               
                                             </div>
-
                                             <div class="pego-columns-auto-height  pego-columns6 fl folio-view isotope-item">
                                                     <div class="folio-view-item">
                                                         <a class="folio-view-thumb zoom">
@@ -338,58 +379,11 @@
                                         </div>
                                         <!--itemInmublesMmovil-->
 
-                                        <!--rowImgCarousel-->
-                                        <div class="pego-columns pego-columns6 fl home-element5 colorsheme3"></div>
-                                            <div class="pego-columns pego-columns6 fl home-element6">
-                                                <div class="owl-carousel owl-theme portfolio-wrapper owl-item">
-                                                    <div class="item">
-                                                        <h1 class="portfolio-title"><span>20  MINUTOS PUERTO</span> DEL CALLAO</h1>
-                                                        <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatatas.</p>
-                                                        <img src="upload/puerto-callao.jpg" class="portfolio-image" alt="&lt;span&gt;Modern and&lt;/span&gt; square house" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
-                                                        <div class="clear"></div>
-                                                    </div>
-                                                    <div class="item">
-                                                        <h1 class="portfolio-title"><span>30 MINUTOS</span> DEL AEROPUERTO</h1>
-                                                        <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
-
-                                                        <img src="upload/aeropuerto-jorge-chavez.jpg" class="portfolio-image" alt="&lt;span&gt;Renovated&lt;/span&gt; interior house" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
-                                                        <div class="clear"></div>
-                                                    </div>
-                                                     <div class="item">
-                                                        <h1 class="portfolio-title"><span>CERCA</span> PLAZA SAN MIGUEL</h1>
-                                                        <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
-
-                                                        <img src="upload/plaza-san-miguel.jpg" class="portfolio-image" alt="&lt;span&gt;Colored&lt;/span&gt; interior design" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
-                                                        <div class="clear"></div></div>
-                                                    <div class="item">
-                                                        <h1 class="portfolio-title"><span>CERCA</span>METRO LA MARINA</h1>
-                                                        <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
-                                                        <img src="upload/metrolamarina.jpg" class="portfolio-image" alt="&lt;span&gt;Family house&lt;/span&gt; in nature" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
-                                                        <div class="clear"></div>
-                                                    </div>
-                                                    
-                                                    <div class="item">
-                                                        <h1 class="portfolio-title"><span>PRÓXIMIDAD</span>AV. LA MARINA</h1>
-                                                        <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
-
-                                                        <img src="upload/lamarina.jpg" class="portfolio-image" alt="&lt;span&gt;Luxury&lt;/span&gt; House in Bali" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
-                                                        <div class="clear"></div>
-                                                    </div>
-                                                </div>    
-                                            </div>
-                                        </div>
-                                        <!--rowImgCarousel-->
-
-                                
-                                        </script>
-
-
                                         <!--seccionBannerMovil-->
                                         <div class="pego-columns pego-columns12 fl home-element2 movil_bner2" align="center" style="padding: 35px 40px 30px; height: 120px; background-color: black;">
                                             <h1 class="page-heading-2" style="font-size: 18px;">NO ESPERES MÁS COMUNÍCATE <br><span style="font-size: 19px;font-weight: 700;">SOLICITA TU COTIZACIÓN AQUÍ</span></h1>
                                         </div>
                                         <!--seccionBannerMovil-->
-
 
                                         <!--seecionBannerDesktop-->
                                         <div class="pego-columns pego-columns12 fl home-element2 bner2" align="center" style="padding: 35px 40px 30px; height: 180px; background-color: black;">
@@ -397,6 +391,7 @@
                                         </div>  
                                         <!--seecionBannerDesktop-->
 
+                                        <!--Formulario-->
                                         <div class="about-wrapper">
                                             <div class="pego-columns-auto-height pego-columns6 fl about-element2 bner2"><img class="fl" src="pic/plexus-5.jpg" alt=""></div>
                                             <div class="pego-columns-auto-height pego-columns6 fl about-element1" id="from" >
