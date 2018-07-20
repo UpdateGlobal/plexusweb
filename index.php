@@ -196,7 +196,7 @@
                     <div class="deskless" style="padding-top: 64px;">
                         <div class="home-wrapper">
 
-                            <div class="pego-columns12 fl home-element2" align="center" style="background-color: #344f7c14; padding: 20px 0px;">
+                            <div class="pego-columns12 fl home-element2" align="center" style="background-color: #344f7c14; padding: 20px 30px;">
                                 <h1 class="page-heading" style="margin-bottom: 17px;">OFICINAS ENTREGA INMEDIATA EN<span>A SÓLO 20 MINUTOS DEL PUERTO DEL CALLAO</span></h1>
 
                                 <a href="#from" class="portfolio-read">Cotiza Aqui</a>
@@ -380,8 +380,8 @@
                                         <!--itemInmublesMmovil-->
 
                                         <!--seccionBannerMovil-->
-                                        <div class="pego-columns pego-columns12 fl home-element2 movil_bner2" align="center" style="padding: 35px 40px 30px; height: 120px; background-color: black;">
-                                            <h1 class="page-heading-2" style="font-size: 18px;">NO ESPERES MÁS COMUNÍCATE <br><span style="font-size: 19px;font-weight: 700;">SOLICITA TU COTIZACIÓN AQUÍ</span></h1>
+                                        <div class="pego-columns pego-columns12 fl home-element2 movil_bner2" align="center" style=" background-color: black;">
+                                            <h2 class="page-heading-2" align="center" style="font-size: 18px;padding: 30px 5px;">NO ESPERES MÁS COMUNÍCATE <span style="font-size: 19px;font-weight: 700;">SOLICITA TU COTIZACIÓN AQUÍ</span></h2>
                                         </div>
                                         <!--seccionBannerMovil-->
 
