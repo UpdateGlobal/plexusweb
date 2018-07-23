@@ -23,7 +23,7 @@
       <!-- twitter card ends from here -->
 
       <!-- facebook open graph starts from here, if you don't need then delete open graph related  -->
-      <meta property="og:title" content="Update | Desarrollamos tu marca" />
+      <meta property="og:title" content="PLEXUS - EDIFICIO CORPORATIVO" />
       <meta property="og:url" content="" />
       <meta property="og:locale" content="es_PE" />
       <meta property="og:site_name" content="PLEXUS - EDIFICIO CORPORATIVO" />
@@ -269,7 +269,7 @@
                                     <a class="col-link" href="index.php#"><img width="315" height="290" src="pic/pelxus-1.jpg" class="attachment-full size-full" alt="free-consulting" style="height: 222px;" /></a>
                                 </div>
                                 <div class="pego-columns pego-columns3 fl   home-element3b" style="background-color: black !important;">
-                                    <a class="col-link fancybox-media" href="https://youtu.be/7OVBKVTeySw" rel="media-gallery">
+                                    <a class="col-link fancybox-media" href="https://youtu.be/3qU02lVUx84" rel="media-gallery">
                                         <div class="page-vertical-alignment">
                                             <div class="page-icon-wrapper">
                                                 <i class="far fa-play-circle fa-5x"></i>
