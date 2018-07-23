@@ -75,8 +75,8 @@ jQuery(document).ready(function() {
       ],
       navigation : false,
       pagination : true,
-      autoPlay: 500,
-      autoplayTimeout:500,
+      autoPlay: 3000,
+      autoplayTimeout: 3000,
   });
 });
 }
