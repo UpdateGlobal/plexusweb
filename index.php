@@ -226,20 +226,20 @@
                                         <div class="owl-carousel owl-theme portfolio-wrapper owl-item">
                                             <div class="item">
                                                 <h1 class="portfolio-title"><span>20  MINUTOS PUERTO</span> DEL CALLAO</h1>
-                                                <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatatas.</p>
+                                                <p class="portfolio-summary">La proximidad a nuestro principal puerto, Callao, es uno de los principales motivos por las que Plexus - San Miguel es la mejor alternativa en la ubicación de oficinas disponibles para hacer negocios entre Lima y Callao. Podrás trasladarte entre uno y otro punto en pocos minutos</p>
                                                 <img src="upload/puerto-callao.jpg" class="portfolio-image" alt="&lt;span&gt;Modern and&lt;/span&gt; square house" /><a href="index.php#" class="portfolio-read-more">Coordina tu cita aquí</a>
                                                 <div class="clear"></div>
                                             </div>
                                             <div class="item">
                                                 <h1 class="portfolio-title"><span>30 MINUTOS</span> DEL AEROPUERTO</h1>
-                                                    <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                                                    <p class="portfolio-summary">Otro de los puntos fuertes es la proximidad del edificio empresarial Plexus a nuestro aeropuerto internacional Jorge Chavez. Teniendo sólo una distancia de 8 kms o 30 minutos en tiempo de traslado en auto. Lograrás  alcanzar fluidez en tus negocios en tiempo y espacio. A considerar.</p>
 
                                                     <img src="upload/aeropuerto-jorge-chavez.jpg" class="portfolio-image" alt="&lt;span&gt;Renovated&lt;/span&gt; interior house" /><a href="index.php#" class="portfolio-read-more">Coordina tu cita aquí</a>
                                                     <div class="clear"></div>
                                             </div>
                                             <div class="item">
                                                 <h1 class="portfolio-title"><span>CERCA</span> PLAZA SAN MIGUEL</h1>
-                                                <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                                                <p class="portfolio-summary">Alrededor del Centro Empresarial Plexus se ubican los principales bancos del Perú. Su beneficiada ubicación esta a 5 minutos del conocido Centro Comercial Plaza San Miguel, donde también encontramos un importante centro bancario además de comercios y restaurantes importantes.</p>
 
                                                 <img src="upload/plaza-san-miguel.jpg" class="portfolio-image" alt="&lt;span&gt;Colored&lt;/span&gt; interior design" /><a href="index.php#" class="portfolio-read-more">Coordina tu cita aquí</a>
                                                 <div class="clear"></div>
@@ -264,6 +264,7 @@
                                     <h1 class="page-title">SAN MIGUEL <span>NEGOCIOS ENTRE LIMA Y CALLAO</span></h1>
                                     <p class="page-summary">La excelente ubicación del edificio empresarial Plexus - San Miguel es ideal para establecer nexos de negocios entre nuestro principal puerto (Prov. Callao) y Lima, teniendo un acceso privilegiado (Avenida La Marina) a sólo 20 minutos de distancia en auto entre uno y otro tramo.</p>
                                 </div>
+
                                 <div class="pego-columns pego-columns3 fl colorsheme3  home-element3a">
                                     <a class="col-link" href="index.php#"><img width="315" height="290" src="pic/pelxus-1.jpg" class="attachment-full size-full" alt="free-consulting" style="height: 222px;" /></a>
                                 </div>
@@ -301,7 +302,7 @@
                                                     <!-- <div class="folio-view-date">Mayo 11, 2018</div> -->
                                                     <div class="clear"></div>
                                                     <h1 class="single-folio-view-title"><a href="#" >COMODIDAD PARA TUS COLABORADORES</a></h1>
-                                                    <p class="folio-view-summary">Lorems ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.quis nostr. velit esse cillum dolore eu fugiat nulla pariatur. </p>
+                                                    <p class="folio-view-summary">Uno de los puntos importantes en el layout del mundo laboral es encontrar las áreas comunes que tus colaboradores necesitan para pasar una grata estadía en su jornada laboral. El centro Empresarial Plexus - San Miguel cuenta con Comedor exclusivo para tus colaboradores con patio panorámico a la ciudad de Lima, 03 Ascensores internos y 01 panorámico. </p>
                                                     <a href="#from" class="portfolio-read">Coordina tu cita aquí</a>
                                                 </div>
                                             </div><!--pibote-->
@@ -310,12 +311,12 @@
                                                 <div class="folio-view-item">
                                                     <div class="folio-view-desc">
                                                         <div class="folio-view-categories">
-                                                            <a href="#" rel="tag">Desde 42 mt2</a>, <a href="#" rel="tag">¡Entrega Inmediata!</a> </div>
+                                                            <a href="#" rel="tag">Desde 46 mt2</a>, <a href="#" rel="tag">¡Entrega Inmediata!</a> </div>
                                                         <div class="folio-view-separator"> / </div>
                                                         <!-- <div class="folio-view-date">Mayo 11, 2018</div> -->
                                                         <div class="clear"></div>
                                                         <h1 class="single-folio-view-title"><a href="#" >Oﬁcinas A1 en el Nuevo Polo Comercial de Lima: San Miguel </a></h1>
-                                                        <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                                                        <p class="folio-view-summary">Plexus brinda la posibilidad de Invertir en infraestructura de primer nivel a un excelente precio por metro cuadrado. San Miguel es el nuevo Polo Empresarial de Lima. Tenemos Áreas desde 46m2 para que obtengas una oﬁcina en un centro empresarial de acuerdo a las necesidades reales de tu empresa y a lo que quieres proyectar de manera corporativa.</p>
                                                         <a href="#from" class="portfolio-read">Coordina tu cita aquí</a>
                                                     </div>
 
@@ -347,7 +348,7 @@
                                                         <!-- <div class="folio-view-date">Mayo 11, 2018</div> -->
                                                         <div class="clear"></div>
                                                         <h1 class="single-folio-view-title"><a href="#" >Oﬁcinas A1 de acuerdo a las necesidades de tu empresa</a></h1>
-                                                        <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                                                        <p class="folio-view-summary">Plexus brinda la posibilidad de Invertir en infraestructura de primer nivel a un excelente precio por metro cuadrado. San Miguel es el nuevo Polo Empresarial de Lima. Tenemos Áreas desde 46m2 para que obtengas una oﬁcina en un centro empresarial de acuerdo a las necesidades reales de tu empresa y a lo que quieres proyectar de manera corporativa.</p>
                                                         <a href="#from" class="portfolio-read">Coordina tu cita aquí</a>
                                                     </div>
                                                 </div>
@@ -367,7 +368,7 @@
                                                             <!-- <div class="folio-view-date">Mayo 11, 2018</div> -->
                                                             <div class="clear"></div>
                                                             <h1 class="single-folio-view-title"><a href="#" >COMODIDAD PARA TUS COLABORADORES</a></h1>
-                                                            <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+                                                            <p class="folio-view-summary">Uno de los puntos importantes en el layout del mundo laboral es encontrar las áreas comunes que tus colaboradores necesitan para pasar una grata estadía en su jornada laboral. El centro Empresarial Plexus - San Miguel cuenta con Comedor exclusivo para tus colaboradores con patio panorámico a la ciudad de Lima, 03 Ascensores internos y 01 panorámico. </p>
                                                             <a href="#from" class="portfolio-read">Coordina tu cita aquí</a>
                                                     </div>
                                                 </div>
